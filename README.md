@@ -1,12 +1,12 @@
-# 🍔 Food Demand Prediction & Price Optimization
+# Food Demand Prediction & Price Optimization
 
-## 📌 Problem Statement
+## Problem Statement
 
 To build a machine learning model that predicts product demand and recommends the optimal selling price to maximize profit based on factors like weather, location, time, and customer footfall.
 
 ---
 
-## 📊 Project Overview
+## Project Overview
 
 This project uses historical sales data from a food business to:
 
@@ -18,7 +18,7 @@ The system tries multiple price points and selects the one that gives the highes
 
 ---
 
-## 🧾 Dataset Description
+## Dataset Description
 
 The dataset contains the following features:
 
@@ -36,7 +36,7 @@ The dataset contains the following features:
 
 ---
 
-## ⚙️ Data Preprocessing
+## Data Preprocessing
 
 * Converted categorical values into numerical format using mapping
 * Checked for missing values and dataset structure
@@ -44,14 +44,14 @@ The dataset contains the following features:
 
 ---
 
-## 🤖 Model Used
+## Model Used
 
 * **Linear Regression**
 * Train-test split: 80% training, 20% testing
 
 ---
 
-## 📈 Model Performance
+## Model Performance
 
 | Metric                         | Value  |
 | ------------------------------ | ------ |
@@ -59,7 +59,7 @@ The dataset contains the following features:
 | Mean Squared Error (MSE)       | 562.38 |
 | Root Mean Squared Error (RMSE) | ~23.7  |
 
-### 📌 Interpretation
+### Interpretation
 
 * Model explains ~40% of demand variation
 * Average prediction error is ~24 units of demand
@@ -67,7 +67,7 @@ The dataset contains the following features:
 
 ---
 
-## 💡 Price Optimization Logic
+## Price Optimization Logic
 
 1. User inputs conditions (day, weather, location, etc.)
 
@@ -81,7 +81,7 @@ The dataset contains the following features:
 
 ---
 
-## 🧠 Example Output
+## Example Output
 
 ```
 Best Price Strategy:
@@ -92,7 +92,7 @@ Expected Profit: 4800 Rs
 
 ---
 
-## 💾 Model Saving
+## Model Saving
 
 The trained model is saved using pickle:
 
@@ -102,7 +102,7 @@ price_recco_model.pkl
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ### 1. Install dependencies
 
@@ -130,13 +130,13 @@ python your_script.py
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 Tanuja Prasad
 
 ---
 
-## ⭐ Conclusion
+## Conclusion
 
 This project demonstrates how machine learning can help small businesses make smarter pricing decisions by combining demand prediction with profit optimization.
 
