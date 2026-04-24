@@ -1,0 +1,1601 @@
+day_type,weather,location_type,time_of_day,item_type,footfall,item_price,cost_price,demand
+Weekday,Sunny,Residential,Evening,Maggie,121,68,39.38,33.94
+Weekday,Sunny,Residential,Evening,Sandwich,121,92,38.4,52.25
+Weekday,Sunny,Residential,Evening,Tea,121,13,5.76,35.73
+Weekday,Sunny,Residential,Evening,Cold Drink,121,50,34.55,63.48
+Weekend,Rainy,College,Morning,Maggie,253,65,36.23,87.13
+Weekend,Rainy,College,Morning,Sandwich,253,86,47.94,38.95
+Weekend,Rainy,College,Morning,Tea,253,37,25.61,83.79
+Weekend,Rainy,College,Morning,Cold Drink,253,59,37.5,40.46
+Weekday,Sunny,Residential,Morning,Maggie,100,46,20.75,11.95
+Weekday,Sunny,Residential,Morning,Sandwich,100,73,49.83,26.9
+Weekday,Sunny,Residential,Morning,Tea,100,35,17.2,16.81
+Weekday,Sunny,Residential,Morning,Cold Drink,100,49,23.14,45.75
+Weekend,Sunny,Residential,Evening,Maggie,255,56,26.75,91.42
+Weekend,Sunny,Residential,Evening,Sandwich,255,71,37.46,49.69
+Weekend,Sunny,Residential,Evening,Tea,255,13,5.92,99.67
+Weekend,Sunny,Residential,Evening,Cold Drink,255,55,29.42,83.59
+Weekend,Rainy,Residential,Evening,Maggie,249,53,24.32,50.9
+Weekend,Rainy,Residential,Evening,Sandwich,249,77,50.31,96.87
+Weekend,Rainy,Residential,Evening,Tea,249,24,15.57,77.32
+Weekend,Rainy,Residential,Evening,Cold Drink,249,57,33.18,45.52
+Weekday,Cloudy,College,Morning,Maggie,138,46,24.24,30.15
+Weekday,Cloudy,College,Morning,Sandwich,138,77,30.93,47.56
+Weekday,Cloudy,College,Morning,Tea,138,26,15.95,60.47
+Weekday,Cloudy,College,Morning,Cold Drink,138,56,23.64,28.64
+Weekday,Cloudy,College,Afternoon,Maggie,82,55,28.12,24.65
+Weekday,Cloudy,College,Afternoon,Sandwich,82,74,45.8,23.88
+Weekday,Cloudy,College,Afternoon,Tea,82,36,20.46,17.62
+Weekday,Cloudy,College,Afternoon,Cold Drink,82,44,27.01,26.92
+Weekend,Cloudy,Residential,Afternoon,Maggie,152,66,36.75,34.7
+Weekend,Cloudy,Residential,Afternoon,Sandwich,152,79,42.01,24.4
+Weekend,Cloudy,Residential,Afternoon,Tea,152,16,8.68,40.89
+Weekend,Cloudy,Residential,Afternoon,Cold Drink,152,33,22.18,26.57
+Weekday,Cloudy,Residential,Morning,Maggie,85,52,22,15.89
+Weekday,Cloudy,Residential,Morning,Sandwich,85,91,60.44,24.42
+Weekday,Cloudy,Residential,Morning,Tea,85,39,23.01,39.94
+Weekday,Cloudy,Residential,Morning,Cold Drink,85,57,26.54,19.12
+Weekend,Cloudy,Office,Evening,Maggie,141,64,31.71,22.51
+Weekend,Cloudy,Office,Evening,Sandwich,141,94,55.86,16.95
+Weekend,Cloudy,Office,Evening,Tea,141,22,14.48,14.39
+Weekend,Cloudy,Office,Evening,Cold Drink,141,37,20.73,34.61
+Weekday,Cloudy,Office,Evening,Maggie,108,61,28.4,34.66
+Weekday,Cloudy,Office,Evening,Sandwich,108,89,45.31,50.74
+Weekday,Cloudy,Office,Evening,Tea,108,29,13.75,33.36
+Weekday,Cloudy,Office,Evening,Cold Drink,108,32,15.69,20.03
+Weekday,Cloudy,College,Afternoon,Maggie,179,67,27.83,32.86
+Weekday,Cloudy,College,Afternoon,Sandwich,179,70,41.32,54.45
+Weekday,Cloudy,College,Afternoon,Tea,179,30,16.41,70.83
+Weekday,Cloudy,College,Afternoon,Cold Drink,179,52,31.29,58.8
+Weekday,Sunny,Residential,Afternoon,Maggie,73,44,25.95,21.17
+Weekday,Sunny,Residential,Afternoon,Sandwich,73,80,51.59,24.78
+Weekday,Sunny,Residential,Afternoon,Tea,73,18,8.93,11.38
+Weekday,Sunny,Residential,Afternoon,Cold Drink,73,58,38.14,21.66
+Weekend,Cloudy,Office,Evening,Maggie,196,59,35.02,35.82
+Weekend,Cloudy,Office,Evening,Sandwich,196,70,36.35,60.05
+Weekend,Cloudy,Office,Evening,Tea,196,17,7.5,39.65
+Weekend,Cloudy,Office,Evening,Cold Drink,196,54,24.99,51.44
+Weekend,Cloudy,Residential,Afternoon,Maggie,161,64,35.52,28.7
+Weekend,Cloudy,Residential,Afternoon,Sandwich,161,70,29.96,59.44
+Weekend,Cloudy,Residential,Afternoon,Tea,161,14,9.31,25.21
+Weekend,Cloudy,Residential,Afternoon,Cold Drink,161,38,19.18,51.16
+Weekday,Rainy,College,Evening,Maggie,162,47,29.87,87.68
+Weekday,Rainy,College,Evening,Sandwich,162,99,39.87,17.75
+Weekday,Rainy,College,Evening,Tea,162,12,8.31,45
+Weekday,Rainy,College,Evening,Cold Drink,162,43,24.28,49.83
+Weekend,Sunny,College,Morning,Maggie,117,40,21.93,17.98
+Weekend,Sunny,College,Morning,Sandwich,117,93,55.32,29.06
+Weekend,Sunny,College,Morning,Tea,117,26,12.8,39.97
+Weekend,Sunny,College,Morning,Cold Drink,117,56,28.58,31.51
+Weekend,Rainy,Office,Afternoon,Maggie,158,58,38.72,68.57
+Weekend,Rainy,Office,Afternoon,Sandwich,158,71,35.86,46.38
+Weekend,Rainy,Office,Afternoon,Tea,158,24,13.15,37.58
+Weekend,Rainy,Office,Afternoon,Cold Drink,158,58,31.89,42.91
+Weekend,Sunny,College,Afternoon,Maggie,270,53,35.75,56.98
+Weekend,Sunny,College,Afternoon,Sandwich,270,78,53.5,53.79
+Weekend,Sunny,College,Afternoon,Tea,270,23,15.87,105.05
+Weekend,Sunny,College,Afternoon,Cold Drink,270,30,12.68,77.64
+Weekend,Cloudy,College,Evening,Maggie,177,57,32.32,80.89
+Weekend,Cloudy,College,Evening,Sandwich,177,95,64.51,18.01
+Weekend,Cloudy,College,Evening,Tea,177,27,15.78,70.27
+Weekend,Cloudy,College,Evening,Cold Drink,177,31,14.76,33.38
+Weekend,Sunny,College,Morning,Maggie,92,61,30.98,17.3
+Weekend,Sunny,College,Morning,Sandwich,92,92,48.39,11.39
+Weekend,Sunny,College,Morning,Tea,92,33,22.24,30.31
+Weekend,Sunny,College,Morning,Cold Drink,92,54,31.77,21.84
+Weekend,Rainy,Office,Evening,Maggie,264,54,27.68,60.92
+Weekend,Rainy,Office,Evening,Sandwich,264,92,55.35,62.87
+Weekend,Rainy,Office,Evening,Tea,264,35,19.7,73.64
+Weekend,Rainy,Office,Evening,Cold Drink,264,55,36.2,46.22
+Weekend,Rainy,Residential,Afternoon,Maggie,284,67,33.37,148.4
+Weekend,Rainy,Residential,Afternoon,Sandwich,284,97,45.08,81.47
+Weekend,Rainy,Residential,Afternoon,Tea,284,13,8.48,67.44
+Weekend,Rainy,Residential,Afternoon,Cold Drink,284,59,33.17,82.71
+Weekend,Sunny,Office,Afternoon,Maggie,207,58,37.04,37.52
+Weekend,Sunny,Office,Afternoon,Sandwich,207,97,60.45,36.28
+Weekend,Sunny,Office,Afternoon,Tea,207,35,24.11,72.61
+Weekend,Sunny,Office,Afternoon,Cold Drink,207,38,23.05,36.47
+Weekend,Sunny,Residential,Afternoon,Maggie,145,69,29.54,22.45
+Weekend,Sunny,Residential,Afternoon,Sandwich,145,82,39.69,56.04
+Weekend,Sunny,Residential,Afternoon,Tea,145,16,9.55,33.45
+Weekend,Sunny,Residential,Afternoon,Cold Drink,145,58,30.5,37.91
+Weekend,Cloudy,College,Afternoon,Maggie,234,68,29.57,26.63
+Weekend,Cloudy,College,Afternoon,Sandwich,234,86,42.43,64.51
+Weekend,Cloudy,College,Afternoon,Tea,234,14,7.59,30.27
+Weekend,Cloudy,College,Afternoon,Cold Drink,234,45,28.89,47.71
+Weekend,Rainy,College,Evening,Maggie,299,49,33.55,196.98
+Weekend,Rainy,College,Evening,Sandwich,299,89,45.6,72.27
+Weekend,Rainy,College,Evening,Tea,299,35,19.26,117.42
+Weekend,Rainy,College,Evening,Cold Drink,299,42,18.85,36.23
+Weekday,Rainy,College,Evening,Maggie,133,63,38,65.12
+Weekday,Rainy,College,Evening,Sandwich,133,70,37.62,42.08
+Weekday,Rainy,College,Evening,Tea,133,14,8.23,69.05
+Weekday,Rainy,College,Evening,Cold Drink,133,37,24.85,21.11
+Weekday,Cloudy,Office,Afternoon,Maggie,292,57,34.48,35.44
+Weekday,Cloudy,Office,Afternoon,Sandwich,292,77,39.7,88.91
+Weekday,Cloudy,Office,Afternoon,Tea,292,39,25.13,53.89
+Weekday,Cloudy,Office,Afternoon,Cold Drink,292,33,20.06,59.71
+Weekday,Sunny,College,Morning,Maggie,298,43,19.49,96.9
+Weekday,Sunny,College,Morning,Sandwich,298,72,50.19,66.69
+Weekday,Sunny,College,Morning,Tea,298,27,12.83,106.21
+Weekday,Sunny,College,Morning,Cold Drink,298,52,35.32,159.81
+Weekday,Cloudy,College,Evening,Maggie,266,42,18.1,118.35
+Weekday,Cloudy,College,Evening,Sandwich,266,99,54.35,48.46
+Weekday,Cloudy,College,Evening,Tea,266,22,14.71,57.66
+Weekday,Cloudy,College,Evening,Cold Drink,266,41,28.19,94.2
+Weekday,Cloudy,Office,Evening,Maggie,177,59,33.75,61.5
+Weekday,Cloudy,Office,Evening,Sandwich,177,90,38.48,59.63
+Weekday,Cloudy,Office,Evening,Tea,177,29,17.45,57.65
+Weekday,Cloudy,Office,Evening,Cold Drink,177,52,32.99,23.72
+Weekday,Rainy,Office,Evening,Maggie,191,65,34.61,125.94
+Weekday,Rainy,Office,Evening,Sandwich,191,80,48.94,89.52
+Weekday,Rainy,Office,Evening,Tea,191,18,11.31,81.79
+Weekday,Rainy,Office,Evening,Cold Drink,191,58,37.79,43.52
+Weekend,Rainy,College,Afternoon,Maggie,76,65,28.86,28.96
+Weekend,Rainy,College,Afternoon,Sandwich,76,75,52.2,16.13
+Weekend,Rainy,College,Afternoon,Tea,76,10,6.64,19.49
+Weekend,Rainy,College,Afternoon,Cold Drink,76,36,25.05,24.78
+Weekend,Cloudy,Residential,Morning,Maggie,157,61,37.3,27.41
+Weekend,Cloudy,Residential,Morning,Sandwich,157,88,38.14,38.9
+Weekend,Cloudy,Residential,Morning,Tea,157,22,11.47,55.4
+Weekend,Cloudy,Residential,Morning,Cold Drink,157,49,21.35,21.24
+Weekday,Cloudy,College,Evening,Maggie,254,67,46.14,64.76
+Weekday,Cloudy,College,Evening,Sandwich,254,86,36.54,55.16
+Weekday,Cloudy,College,Evening,Tea,254,30,20.67,26.33
+Weekday,Cloudy,College,Evening,Cold Drink,254,42,17.34,93.31
+Weekend,Sunny,Residential,Morning,Maggie,213,42,25.56,26.12
+Weekend,Sunny,Residential,Morning,Sandwich,213,84,49.46,65.76
+Weekend,Sunny,Residential,Morning,Tea,213,10,5.88,76.23
+Weekend,Sunny,Residential,Morning,Cold Drink,213,45,27.95,119.68
+Weekend,Rainy,College,Afternoon,Maggie,141,43,23.18,43.57
+Weekend,Rainy,College,Afternoon,Sandwich,141,87,41.74,20.54
+Weekend,Rainy,College,Afternoon,Tea,141,13,9.05,65.45
+Weekend,Rainy,College,Afternoon,Cold Drink,141,46,22.26,31.49
+Weekday,Sunny,College,Afternoon,Maggie,84,68,46.39,18.9
+Weekday,Sunny,College,Afternoon,Sandwich,84,74,43.22,18.94
+Weekday,Sunny,College,Afternoon,Tea,84,33,21.88,22.3
+Weekday,Sunny,College,Afternoon,Cold Drink,84,34,13.87,26.83
+Weekday,Rainy,Residential,Morning,Maggie,60,60,37.49,19.61
+Weekday,Rainy,Residential,Morning,Sandwich,60,96,62.65,21.09
+Weekday,Rainy,Residential,Morning,Tea,60,11,4.52,16.4
+Weekday,Rainy,Residential,Morning,Cold Drink,60,50,20.85,21.57
+Weekday,Sunny,Residential,Morning,Maggie,151,42,23.8,49.94
+Weekday,Sunny,Residential,Morning,Sandwich,151,74,46.41,32.22
+Weekday,Sunny,Residential,Morning,Tea,151,30,16.05,27.24
+Weekday,Sunny,Residential,Morning,Cold Drink,151,48,23.16,36.73
+Weekday,Sunny,Office,Evening,Maggie,121,46,27.67,37.18
+Weekday,Sunny,Office,Evening,Sandwich,121,91,59.1,27.93
+Weekday,Sunny,Office,Evening,Tea,121,10,5.66,32.46
+Weekday,Sunny,Office,Evening,Cold Drink,121,59,37.62,50.27
+Weekday,Cloudy,Residential,Evening,Maggie,278,60,35.51,113.93
+Weekday,Cloudy,Residential,Evening,Sandwich,278,76,33.51,34.82
+Weekday,Cloudy,Residential,Evening,Tea,278,15,8.74,80.9
+Weekday,Cloudy,Residential,Evening,Cold Drink,278,44,23.37,103.21
+Weekend,Sunny,Office,Morning,Maggie,265,54,28.02,75.96
+Weekend,Sunny,Office,Morning,Sandwich,265,88,53.62,89.82
+Weekend,Sunny,Office,Morning,Tea,265,19,12.88,85.31
+Weekend,Sunny,Office,Morning,Cold Drink,265,57,23.93,45.22
+Weekend,Sunny,Office,Morning,Maggie,175,50,28.69,35.43
+Weekend,Sunny,Office,Morning,Sandwich,175,84,36.85,24.22
+Weekend,Sunny,Office,Morning,Tea,175,20,8.83,66.49
+Weekend,Sunny,Office,Morning,Cold Drink,175,37,22.53,58.67
+Weekend,Cloudy,Residential,Morning,Maggie,209,57,33.09,34.94
+Weekend,Cloudy,Residential,Morning,Sandwich,209,90,40.56,38.37
+Weekend,Cloudy,Residential,Morning,Tea,209,38,15.56,71.9
+Weekend,Cloudy,Residential,Morning,Cold Drink,209,34,18.3,33.84
+Weekend,Sunny,Office,Afternoon,Maggie,94,66,27.18,31.94
+Weekend,Sunny,Office,Afternoon,Sandwich,94,94,57,23.83
+Weekend,Sunny,Office,Afternoon,Tea,94,20,13.53,11.12
+Weekend,Sunny,Office,Afternoon,Cold Drink,94,55,36.33,17.68
+Weekday,Sunny,Residential,Evening,Maggie,176,63,34.36,60.29
+Weekday,Sunny,Residential,Evening,Sandwich,176,92,51.46,66.77
+Weekday,Sunny,Residential,Evening,Tea,176,35,14.39,30.93
+Weekday,Sunny,Residential,Evening,Cold Drink,176,36,21.82,93.28
+Weekday,Cloudy,College,Afternoon,Maggie,299,45,25.19,51.65
+Weekday,Cloudy,College,Afternoon,Sandwich,299,94,58.39,32.38
+Weekday,Cloudy,College,Afternoon,Tea,299,16,7.95,48.87
+Weekday,Cloudy,College,Afternoon,Cold Drink,299,55,30.83,50.82
+Weekday,Sunny,Office,Evening,Maggie,282,52,28.28,93.15
+Weekday,Sunny,Office,Evening,Sandwich,282,91,52.42,109.52
+Weekday,Sunny,Office,Evening,Tea,282,26,14.8,60.24
+Weekday,Sunny,Office,Evening,Cold Drink,282,34,17.3,124.27
+Weekend,Cloudy,Residential,Morning,Maggie,247,44,29.92,25.26
+Weekend,Cloudy,Residential,Morning,Sandwich,247,90,40.13,42.93
+Weekend,Cloudy,Residential,Morning,Tea,247,13,8.52,40.58
+Weekend,Cloudy,Residential,Morning,Cold Drink,247,59,26.67,91.15
+Weekday,Cloudy,Residential,Evening,Maggie,89,44,30.57,14.27
+Weekday,Cloudy,Residential,Evening,Sandwich,89,71,40.67,40.07
+Weekday,Cloudy,Residential,Evening,Tea,89,24,15.48,15.79
+Weekday,Cloudy,Residential,Evening,Cold Drink,89,53,32.69,30.82
+Weekend,Cloudy,Residential,Afternoon,Maggie,228,52,32.8,35.59
+Weekend,Cloudy,Residential,Afternoon,Sandwich,228,91,55.81,36.45
+Weekend,Cloudy,Residential,Afternoon,Tea,228,29,13.71,30.65
+Weekend,Cloudy,Residential,Afternoon,Cold Drink,228,55,34.67,28.77
+Weekend,Cloudy,Residential,Morning,Maggie,284,42,17.45,57.08
+Weekend,Cloudy,Residential,Morning,Sandwich,284,79,44.6,75.17
+Weekend,Cloudy,Residential,Morning,Tea,284,11,5.46,126.62
+Weekend,Cloudy,Residential,Morning,Cold Drink,284,30,13.25,28.63
+Weekday,Cloudy,Residential,Afternoon,Maggie,296,42,21.2,112.14
+Weekday,Cloudy,Residential,Afternoon,Sandwich,296,99,61.76,65.88
+Weekday,Cloudy,Residential,Afternoon,Tea,296,30,18.58,112.92
+Weekday,Cloudy,Residential,Afternoon,Cold Drink,296,41,21.06,111.87
+Weekend,Rainy,College,Evening,Maggie,154,44,20.26,41.33
+Weekend,Rainy,College,Evening,Sandwich,154,90,41.03,22.08
+Weekend,Rainy,College,Evening,Tea,154,23,12.81,47.97
+Weekend,Rainy,College,Evening,Cold Drink,154,42,24.21,46.95
+Weekend,Cloudy,Office,Evening,Maggie,174,45,25.29,48.36
+Weekend,Cloudy,Office,Evening,Sandwich,174,70,32.88,77.23
+Weekend,Cloudy,Office,Evening,Tea,174,32,17.91,20.88
+Weekend,Cloudy,Office,Evening,Cold Drink,174,37,21.73,23.5
+Weekend,Cloudy,Residential,Evening,Maggie,249,49,21.65,101.06
+Weekend,Cloudy,Residential,Evening,Sandwich,249,98,53.77,96.34
+Weekend,Cloudy,Residential,Evening,Tea,249,36,22.92,36.23
+Weekend,Cloudy,Residential,Evening,Cold Drink,249,30,18.36,83.06
+Weekday,Rainy,Office,Afternoon,Maggie,59,44,29.17,17.93
+Weekday,Rainy,Office,Afternoon,Sandwich,59,75,42.07,12.61
+Weekday,Rainy,Office,Afternoon,Tea,59,22,9.64,19.4
+Weekday,Rainy,Office,Afternoon,Cold Drink,59,58,32.59,14.51
+Weekend,Sunny,Office,Evening,Maggie,144,58,35.27,45.41
+Weekend,Sunny,Office,Evening,Sandwich,144,80,46.38,60.14
+Weekend,Sunny,Office,Evening,Tea,144,39,26.23,39.6
+Weekend,Sunny,Office,Evening,Cold Drink,144,37,19.5,40.26
+Weekday,Rainy,College,Afternoon,Maggie,259,64,30.52,123.48
+Weekday,Rainy,College,Afternoon,Sandwich,259,80,54.37,69.81
+Weekday,Rainy,College,Afternoon,Tea,259,13,8.28,41.53
+Weekday,Rainy,College,Afternoon,Cold Drink,259,39,24.62,54.99
+Weekday,Rainy,Residential,Morning,Maggie,255,47,30.65,142.75
+Weekday,Rainy,Residential,Morning,Sandwich,255,70,30.38,100.84
+Weekday,Rainy,Residential,Morning,Tea,255,23,10.49,174.66
+Weekday,Rainy,Residential,Morning,Cold Drink,255,30,19.83,65.19
+Weekend,Cloudy,College,Evening,Maggie,250,60,30.03,102.26
+Weekend,Cloudy,College,Evening,Sandwich,250,90,52.3,28.2
+Weekend,Cloudy,College,Evening,Tea,250,29,16.28,93.99
+Weekend,Cloudy,College,Evening,Cold Drink,250,31,16.73,61.06
+Weekday,Sunny,Residential,Evening,Maggie,157,66,29.19,28.81
+Weekday,Sunny,Residential,Evening,Sandwich,157,76,34.17,20.75
+Weekday,Sunny,Residential,Evening,Tea,157,10,5.09,43.05
+Weekday,Sunny,Residential,Evening,Cold Drink,157,51,23.77,38.58
+Weekday,Cloudy,College,Morning,Maggie,226,59,30.94,28.39
+Weekday,Cloudy,College,Morning,Sandwich,226,98,44.62,30.04
+Weekday,Cloudy,College,Morning,Tea,226,22,11.42,67
+Weekday,Cloudy,College,Morning,Cold Drink,226,53,35.48,36.51
+Weekday,Sunny,College,Morning,Maggie,79,55,31.32,9.46
+Weekday,Sunny,College,Morning,Sandwich,79,83,50.98,14.28
+Weekday,Sunny,College,Morning,Tea,79,31,16.5,22.62
+Weekday,Sunny,College,Morning,Cold Drink,79,35,22.04,15.51
+Weekend,Sunny,Residential,Evening,Maggie,180,49,23.58,63.33
+Weekend,Sunny,Residential,Evening,Sandwich,180,97,62.1,85.03
+Weekend,Sunny,Residential,Evening,Tea,180,27,17.82,40.03
+Weekend,Sunny,Residential,Evening,Cold Drink,180,54,25.2,45.72
+Weekday,Cloudy,College,Afternoon,Maggie,298,54,30.82,109.14
+Weekday,Cloudy,College,Afternoon,Sandwich,298,97,45.73,27.08
+Weekday,Cloudy,College,Afternoon,Tea,298,33,20.35,106.3
+Weekday,Cloudy,College,Afternoon,Cold Drink,298,40,27.55,114.23
+Weekend,Sunny,Office,Evening,Maggie,104,55,23.43,36.19
+Weekend,Sunny,Office,Evening,Sandwich,104,70,32.37,13.47
+Weekend,Sunny,Office,Evening,Tea,104,38,25.19,30.46
+Weekend,Sunny,Office,Evening,Cold Drink,104,47,31.39,53.86
+Weekend,Cloudy,Office,Evening,Maggie,179,42,24.24,38.75
+Weekend,Cloudy,Office,Evening,Sandwich,179,74,37.26,71.35
+Weekend,Cloudy,Office,Evening,Tea,179,18,9.56,33.71
+Weekend,Cloudy,Office,Evening,Cold Drink,179,49,33.93,59.77
+Weekday,Rainy,Office,Evening,Maggie,287,62,39.68,117.56
+Weekday,Rainy,Office,Evening,Sandwich,287,88,48.73,111.07
+Weekday,Rainy,Office,Evening,Tea,287,11,6.49,76.36
+Weekday,Rainy,Office,Evening,Cold Drink,287,51,30.27,65.01
+Weekend,Rainy,College,Morning,Maggie,147,62,37.51,76.46
+Weekend,Rainy,College,Morning,Sandwich,147,90,58.01,25.67
+Weekend,Rainy,College,Morning,Tea,147,11,6.23,84.68
+Weekend,Rainy,College,Morning,Cold Drink,147,55,33.88,19.4
+Weekend,Sunny,Residential,Morning,Maggie,80,45,27.88,14.02
+Weekend,Sunny,Residential,Morning,Sandwich,80,82,49.16,12.21
+Weekend,Sunny,Residential,Morning,Tea,80,22,14.33,23.02
+Weekend,Sunny,Residential,Morning,Cold Drink,80,59,32.78,13.69
+Weekend,Rainy,Residential,Morning,Maggie,100,60,34.86,26.04
+Weekend,Rainy,Residential,Morning,Sandwich,100,90,58.6,23.12
+Weekend,Rainy,Residential,Morning,Tea,100,13,8,36.88
+Weekend,Rainy,Residential,Morning,Cold Drink,100,32,21.91,21.9
+Weekend,Rainy,Office,Morning,Maggie,105,40,19.24,41.26
+Weekend,Rainy,Office,Morning,Sandwich,105,88,50.91,12.12
+Weekend,Rainy,Office,Morning,Tea,105,39,26.78,29.98
+Weekend,Rainy,Office,Morning,Cold Drink,105,38,23.99,13.86
+Weekday,Sunny,College,Morning,Maggie,110,50,28.97,26.17
+Weekday,Sunny,College,Morning,Sandwich,110,72,46.49,37.38
+Weekday,Sunny,College,Morning,Tea,110,21,14.5,14.53
+Weekday,Sunny,College,Morning,Cold Drink,110,41,20.84,21.03
+Weekday,Sunny,College,Morning,Maggie,123,64,34.16,19.13
+Weekday,Sunny,College,Morning,Sandwich,123,99,68.06,28.2
+Weekday,Sunny,College,Morning,Tea,123,30,18.83,50.73
+Weekday,Sunny,College,Morning,Cold Drink,123,45,29.46,32.27
+Weekday,Cloudy,Residential,Afternoon,Maggie,282,52,31.25,31.94
+Weekday,Cloudy,Residential,Afternoon,Sandwich,282,85,57.59,43.48
+Weekday,Cloudy,Residential,Afternoon,Tea,282,30,16.26,54.67
+Weekday,Cloudy,Residential,Afternoon,Cold Drink,282,44,26.81,53.36
+Weekend,Rainy,Residential,Evening,Maggie,270,57,35.54,56.6
+Weekend,Rainy,Residential,Evening,Sandwich,270,72,35.69,112.97
+Weekend,Rainy,Residential,Evening,Tea,270,26,15.47,84.81
+Weekend,Rainy,Residential,Evening,Cold Drink,270,41,17.88,33.23
+Weekday,Cloudy,Office,Evening,Maggie,264,51,29.16,108.09
+Weekday,Cloudy,Office,Evening,Sandwich,264,73,46.52,61.97
+Weekday,Cloudy,Office,Evening,Tea,264,27,15.01,60.2
+Weekday,Cloudy,Office,Evening,Cold Drink,264,41,19.27,28.33
+Weekend,Rainy,Office,Evening,Maggie,296,52,29.05,203.38
+Weekend,Rainy,Office,Evening,Sandwich,296,72,30.31,36.53
+Weekend,Rainy,Office,Evening,Tea,296,38,23.95,97.94
+Weekend,Rainy,Office,Evening,Cold Drink,296,50,27.2,81.17
+Weekend,Cloudy,College,Afternoon,Maggie,207,64,32.06,53.15
+Weekend,Cloudy,College,Afternoon,Sandwich,207,70,33.01,27.56
+Weekend,Cloudy,College,Afternoon,Tea,207,23,11.25,73.66
+Weekend,Cloudy,College,Afternoon,Cold Drink,207,47,22.09,23.31
+Weekday,Sunny,Office,Evening,Maggie,122,54,27.83,44.49
+Weekday,Sunny,Office,Evening,Sandwich,122,81,55.64,49.69
+Weekday,Sunny,Office,Evening,Tea,122,14,5.98,27.48
+Weekday,Sunny,Office,Evening,Cold Drink,122,53,35.26,51.28
+Weekend,Sunny,Office,Morning,Maggie,248,59,24.75,54.68
+Weekend,Sunny,Office,Morning,Sandwich,248,98,58.3,70.02
+Weekend,Sunny,Office,Morning,Tea,248,22,9.59,36.78
+Weekend,Sunny,Office,Morning,Cold Drink,248,54,25.17,58.01
+Weekday,Rainy,College,Morning,Maggie,103,54,25.1,39.47
+Weekday,Rainy,College,Morning,Sandwich,103,89,62.16,10.97
+Weekday,Rainy,College,Morning,Tea,103,19,10.54,49.68
+Weekday,Rainy,College,Morning,Cold Drink,103,46,20.52,35.51
+Weekend,Sunny,College,Evening,Maggie,138,48,32.09,59.29
+Weekend,Sunny,College,Evening,Sandwich,138,80,53.06,29.76
+Weekend,Sunny,College,Evening,Tea,138,37,20.09,15.64
+Weekend,Sunny,College,Evening,Cold Drink,138,31,20.42,70.97
+Weekend,Sunny,College,Evening,Maggie,236,41,21.42,59.98
+Weekend,Sunny,College,Evening,Sandwich,236,77,46.87,32.46
+Weekend,Sunny,College,Evening,Tea,236,27,11.46,39.19
+Weekend,Sunny,College,Evening,Cold Drink,236,42,28.07,140.69
+Weekend,Sunny,Office,Morning,Maggie,164,65,37.14,48.98
+Weekend,Sunny,Office,Morning,Sandwich,164,77,43.87,29.54
+Weekend,Sunny,Office,Morning,Tea,164,15,8.35,76.85
+Weekend,Sunny,Office,Morning,Cold Drink,164,57,37.34,88.61
+Weekday,Sunny,Residential,Morning,Maggie,138,60,36.24,39.41
+Weekday,Sunny,Residential,Morning,Sandwich,138,75,34.26,50.3
+Weekday,Sunny,Residential,Morning,Tea,138,22,14.55,19.51
+Weekday,Sunny,Residential,Morning,Cold Drink,138,52,20.88,71.62
+Weekday,Rainy,Residential,Evening,Maggie,131,43,24.37,77.1
+Weekday,Rainy,Residential,Evening,Sandwich,131,81,32.56,29.26
+Weekday,Rainy,Residential,Evening,Tea,131,23,11.45,52.65
+Weekday,Rainy,Residential,Evening,Cold Drink,131,37,17.68,38.02
+Weekend,Sunny,Residential,Afternoon,Maggie,260,69,27.98,59.71
+Weekend,Sunny,Residential,Afternoon,Sandwich,260,71,35.68,75.34
+Weekend,Sunny,Residential,Afternoon,Tea,260,39,24.42,87.53
+Weekend,Sunny,Residential,Afternoon,Cold Drink,260,49,29.71,46.94
+Weekday,Sunny,Office,Morning,Maggie,187,61,30.73,53.53
+Weekday,Sunny,Office,Morning,Sandwich,187,96,62.95,74.25
+Weekday,Sunny,Office,Morning,Tea,187,24,16.58,78.98
+Weekday,Sunny,Office,Morning,Cold Drink,187,32,18.51,60.33
+Weekday,Cloudy,College,Afternoon,Maggie,160,54,34.86,28.12
+Weekday,Cloudy,College,Afternoon,Sandwich,160,92,49.11,20.39
+Weekday,Cloudy,College,Afternoon,Tea,160,38,25.97,20.91
+Weekday,Cloudy,College,Afternoon,Cold Drink,160,38,17.07,54.15
+Weekday,Cloudy,Office,Evening,Maggie,255,59,35.18,55.69
+Weekday,Cloudy,Office,Evening,Sandwich,255,86,59.25,33.47
+Weekday,Cloudy,Office,Evening,Tea,255,38,25.96,57.61
+Weekday,Cloudy,Office,Evening,Cold Drink,255,56,38.6,83.65
+Weekday,Cloudy,Residential,Morning,Maggie,107,67,41.36,34.64
+Weekday,Cloudy,Residential,Morning,Sandwich,107,72,29.47,31.62
+Weekday,Cloudy,Residential,Morning,Tea,107,21,11.95,33.59
+Weekday,Cloudy,Residential,Morning,Cold Drink,107,56,38.67,16.66
+Weekday,Sunny,College,Evening,Maggie,76,53,29.63,9.61
+Weekday,Sunny,College,Evening,Sandwich,76,98,43.06,7.01
+Weekday,Sunny,College,Evening,Tea,76,37,25.54,11.83
+Weekday,Sunny,College,Evening,Cold Drink,76,44,23.96,15.41
+Weekday,Rainy,College,Afternoon,Maggie,225,64,28.69,99.72
+Weekday,Rainy,College,Afternoon,Sandwich,225,90,43.26,53.43
+Weekday,Rainy,College,Afternoon,Tea,225,20,13.91,48.9
+Weekday,Rainy,College,Afternoon,Cold Drink,225,50,21.09,48.99
+Weekend,Cloudy,Residential,Afternoon,Maggie,81,50,30.42,29
+Weekend,Cloudy,Residential,Afternoon,Sandwich,81,75,50.43,25.7
+Weekend,Cloudy,Residential,Afternoon,Tea,81,28,12.08,13.98
+Weekend,Cloudy,Residential,Afternoon,Cold Drink,81,54,30.85,8.55
+Weekend,Rainy,College,Afternoon,Maggie,217,57,28.38,83.1
+Weekend,Rainy,College,Afternoon,Sandwich,217,70,46.53,27.07
+Weekend,Rainy,College,Afternoon,Tea,217,22,9.32,71.31
+Weekend,Rainy,College,Afternoon,Cold Drink,217,31,21.49,34.78
+Weekend,Rainy,Residential,Afternoon,Maggie,155,62,37.27,89.62
+Weekend,Rainy,Residential,Afternoon,Sandwich,155,98,59.97,16.97
+Weekend,Rainy,Residential,Afternoon,Tea,155,15,8.77,66
+Weekend,Rainy,Residential,Afternoon,Cold Drink,155,38,23.28,56
+Weekend,Rainy,Office,Evening,Maggie,176,46,27.52,84.24
+Weekend,Rainy,Office,Evening,Sandwich,176,75,48.39,49.78
+Weekend,Rainy,Office,Evening,Tea,176,12,4.95,39.39
+Weekend,Rainy,Office,Evening,Cold Drink,176,43,18.25,20.79
+Weekday,Sunny,College,Morning,Maggie,292,65,32.42,70.39
+Weekday,Sunny,College,Morning,Sandwich,292,82,37.28,68.86
+Weekday,Sunny,College,Morning,Tea,292,32,13.22,56.37
+Weekday,Sunny,College,Morning,Cold Drink,292,35,21.55,73.82
+Weekend,Sunny,Residential,Evening,Maggie,205,49,25.53,40.88
+Weekend,Sunny,Residential,Evening,Sandwich,205,91,37.24,43.62
+Weekend,Sunny,Residential,Evening,Tea,205,21,9.5,79.59
+Weekend,Sunny,Residential,Evening,Cold Drink,205,55,34.25,70
+Weekend,Rainy,Office,Morning,Maggie,228,48,25.52,108.61
+Weekend,Rainy,Office,Morning,Sandwich,228,73,48.33,84.41
+Weekend,Rainy,Office,Morning,Tea,228,15,8.95,176.79
+Weekend,Rainy,Office,Morning,Cold Drink,228,55,37.05,37.21
+Weekday,Rainy,College,Evening,Maggie,274,42,26.58,109.29
+Weekday,Rainy,College,Evening,Sandwich,274,99,44.94,39.42
+Weekday,Rainy,College,Evening,Tea,274,23,12.74,92.03
+Weekday,Rainy,College,Evening,Cold Drink,274,35,19.17,47.72
+Weekend,Sunny,Residential,Afternoon,Maggie,297,46,23.36,82.53
+Weekend,Sunny,Residential,Afternoon,Sandwich,297,75,44.67,57.51
+Weekend,Sunny,Residential,Afternoon,Tea,297,37,17.67,88.22
+Weekend,Sunny,Residential,Afternoon,Cold Drink,297,30,18.96,62.04
+Weekday,Cloudy,Residential,Evening,Maggie,188,49,20.68,34.05
+Weekday,Cloudy,Residential,Evening,Sandwich,188,79,42.24,67.86
+Weekday,Cloudy,Residential,Evening,Tea,188,18,9.53,32.83
+Weekday,Cloudy,Residential,Evening,Cold Drink,188,40,27.38,33.04
+Weekend,Sunny,Residential,Morning,Maggie,224,44,24.64,74.94
+Weekend,Sunny,Residential,Morning,Sandwich,224,93,59.68,61.74
+Weekend,Sunny,Residential,Morning,Tea,224,24,13.62,76.29
+Weekend,Sunny,Residential,Morning,Cold Drink,224,49,23.57,39.35
+Weekday,Sunny,Office,Morning,Maggie,50,62,28.98,7.7
+Weekday,Sunny,Office,Morning,Sandwich,50,96,47.51,12.61
+Weekday,Sunny,Office,Morning,Tea,50,23,13.95,14.25
+Weekday,Sunny,Office,Morning,Cold Drink,50,47,32.41,7.61
+Weekend,Sunny,Office,Morning,Maggie,234,46,24.68,59.59
+Weekend,Sunny,Office,Morning,Sandwich,234,87,43.74,60.76
+Weekend,Sunny,Office,Morning,Tea,234,32,13.09,58.52
+Weekend,Sunny,Office,Morning,Cold Drink,234,45,30.69,112.27
+Weekend,Rainy,College,Morning,Maggie,296,47,21,75.64
+Weekend,Rainy,College,Morning,Sandwich,296,84,38.06,63.77
+Weekend,Rainy,College,Morning,Tea,296,32,22.19,122.53
+Weekend,Rainy,College,Morning,Cold Drink,296,59,32.4,84.46
+Weekend,Cloudy,College,Evening,Maggie,121,64,38.84,43.99
+Weekend,Cloudy,College,Evening,Sandwich,121,88,60.04,35.38
+Weekend,Cloudy,College,Evening,Tea,121,25,14.88,15.97
+Weekend,Cloudy,College,Evening,Cold Drink,121,57,25.52,34.06
+Weekday,Sunny,College,Morning,Maggie,138,55,34.42,17.55
+Weekday,Sunny,College,Morning,Sandwich,138,78,33.75,40.73
+Weekday,Sunny,College,Morning,Tea,138,15,7.47,53.87
+Weekday,Sunny,College,Morning,Cold Drink,138,35,23.46,75.22
+Weekday,Cloudy,College,Evening,Maggie,178,63,30.81,62.95
+Weekday,Cloudy,College,Evening,Sandwich,178,90,44.76,31.39
+Weekday,Cloudy,College,Evening,Tea,178,16,9.1,38.11
+Weekday,Cloudy,College,Evening,Cold Drink,178,58,31.01,30.48
+Weekday,Cloudy,Office,Afternoon,Maggie,60,42,18.92,17.57
+Weekday,Cloudy,Office,Afternoon,Sandwich,60,71,38.27,12.84
+Weekday,Cloudy,Office,Afternoon,Tea,60,35,23.99,21.25
+Weekday,Cloudy,Office,Afternoon,Cold Drink,60,57,23.24,12.14
+Weekend,Sunny,Office,Morning,Maggie,256,51,27.69,55.89
+Weekend,Sunny,Office,Morning,Sandwich,256,92,59.24,80.75
+Weekend,Sunny,Office,Morning,Tea,256,36,20.03,115.39
+Weekend,Sunny,Office,Morning,Cold Drink,256,40,16.09,112.99
+Weekend,Cloudy,College,Evening,Maggie,100,54,24.79,29.25
+Weekend,Cloudy,College,Evening,Sandwich,100,88,37.88,20.64
+Weekend,Cloudy,College,Evening,Tea,100,25,13.92,30.1
+Weekend,Cloudy,College,Evening,Cold Drink,100,58,37.17,26.17
+Weekend,Rainy,Office,Afternoon,Maggie,51,56,38.81,26.54
+Weekend,Rainy,Office,Afternoon,Sandwich,51,99,44.98,15.52
+Weekend,Rainy,Office,Afternoon,Tea,51,19,12.16,11.89
+Weekend,Rainy,Office,Afternoon,Cold Drink,51,53,33.82,7.93
+Weekend,Rainy,Residential,Afternoon,Maggie,178,51,21.06,77.42
+Weekend,Rainy,Residential,Afternoon,Sandwich,178,96,38.47,51.87
+Weekend,Rainy,Residential,Afternoon,Tea,178,30,19.96,44.97
+Weekend,Rainy,Residential,Afternoon,Cold Drink,178,38,22.57,27.13
+Weekday,Sunny,Office,Morning,Maggie,203,66,41.85,37.04
+Weekday,Sunny,Office,Morning,Sandwich,203,88,57.67,61.19
+Weekday,Sunny,Office,Morning,Tea,203,34,14.57,75.78
+Weekday,Sunny,Office,Morning,Cold Drink,203,30,15.82,44.43
+Weekday,Cloudy,Office,Morning,Maggie,168,60,25.72,17.99
+Weekday,Cloudy,Office,Morning,Sandwich,168,84,39.4,27.19
+Weekday,Cloudy,Office,Morning,Tea,168,20,9.39,47.45
+Weekday,Cloudy,Office,Morning,Cold Drink,168,58,24.22,23.95
+Weekend,Cloudy,Residential,Morning,Maggie,195,42,22.38,45.58
+Weekend,Cloudy,Residential,Morning,Sandwich,195,78,47.4,77.49
+Weekend,Cloudy,Residential,Morning,Tea,195,37,23.89,71.22
+Weekend,Cloudy,Residential,Morning,Cold Drink,195,35,20.07,35.54
+Weekend,Sunny,College,Evening,Maggie,122,47,23.97,29.73
+Weekend,Sunny,College,Evening,Sandwich,122,76,31.98,37.44
+Weekend,Sunny,College,Evening,Tea,122,11,6.61,14.76
+Weekend,Sunny,College,Evening,Cold Drink,122,50,24.07,50.85
+Weekday,Rainy,College,Afternoon,Maggie,52,61,36.65,31.06
+Weekday,Rainy,College,Afternoon,Sandwich,52,71,36.13,20.73
+Weekday,Rainy,College,Afternoon,Tea,52,32,17.27,9.21
+Weekday,Rainy,College,Afternoon,Cold Drink,52,41,17.49,20.2
+Weekday,Cloudy,Residential,Morning,Maggie,104,55,28.76,23.59
+Weekday,Cloudy,Residential,Morning,Sandwich,104,92,57.67,21.24
+Weekday,Cloudy,Residential,Morning,Tea,104,21,14.58,32.78
+Weekday,Cloudy,Residential,Morning,Cold Drink,104,59,27.75,22.86
+Weekend,Rainy,College,Morning,Maggie,170,69,38.38,73.2
+Weekend,Rainy,College,Morning,Sandwich,170,87,55.36,42.77
+Weekend,Rainy,College,Morning,Tea,170,30,19.43,110.92
+Weekend,Rainy,College,Morning,Cold Drink,170,31,12.99,23
+Weekday,Rainy,College,Afternoon,Maggie,154,60,30.23,39.67
+Weekday,Rainy,College,Afternoon,Sandwich,154,70,34.42,33.74
+Weekday,Rainy,College,Afternoon,Tea,154,32,21.85,83.62
+Weekday,Rainy,College,Afternoon,Cold Drink,154,35,23.65,38.36
+Weekend,Sunny,Office,Evening,Maggie,98,49,27.53,33.91
+Weekend,Sunny,Office,Evening,Sandwich,98,99,65.68,42.39
+Weekend,Sunny,Office,Evening,Tea,98,15,6.64,16.03
+Weekend,Sunny,Office,Evening,Cold Drink,98,43,18.24,32.47
+Weekend,Cloudy,Office,Evening,Maggie,259,53,36.71,90.84
+Weekend,Cloudy,Office,Evening,Sandwich,259,94,53.82,75.78
+Weekend,Cloudy,Office,Evening,Tea,259,10,6.77,63.74
+Weekend,Cloudy,Office,Evening,Cold Drink,259,43,28.79,90.34
+Weekend,Cloudy,Residential,Morning,Maggie,183,64,38.39,24.98
+Weekend,Cloudy,Residential,Morning,Sandwich,183,90,36.7,25.72
+Weekend,Cloudy,Residential,Morning,Tea,183,13,5.51,79.22
+Weekend,Cloudy,Residential,Morning,Cold Drink,183,57,28.13,46.09
+Weekend,Sunny,Residential,Afternoon,Maggie,209,68,27.56,58.68
+Weekend,Sunny,Residential,Afternoon,Sandwich,209,92,41,24.75
+Weekend,Sunny,Residential,Afternoon,Tea,209,28,12.81,34.18
+Weekend,Sunny,Residential,Afternoon,Cold Drink,209,59,41.21,36.78
+Weekend,Cloudy,College,Evening,Maggie,132,48,21.25,21.61
+Weekend,Cloudy,College,Evening,Sandwich,132,99,47.48,17
+Weekend,Cloudy,College,Evening,Tea,132,25,10.47,33.37
+Weekend,Cloudy,College,Evening,Cold Drink,132,36,16.87,22.41
+Weekend,Sunny,Office,Evening,Maggie,227,44,29.3,64
+Weekend,Sunny,Office,Evening,Sandwich,227,98,49.61,70.18
+Weekend,Sunny,Office,Evening,Tea,227,31,20.1,72.66
+Weekend,Sunny,Office,Evening,Cold Drink,227,51,35.15,59.44
+Weekend,Cloudy,College,Afternoon,Maggie,279,54,31.03,84.9
+Weekend,Cloudy,College,Afternoon,Sandwich,279,93,52.14,32.14
+Weekend,Cloudy,College,Afternoon,Tea,279,30,19.51,80.57
+Weekend,Cloudy,College,Afternoon,Cold Drink,279,50,32.02,108.22
+Weekend,Sunny,Residential,Morning,Maggie,237,50,26.82,83.73
+Weekend,Sunny,Residential,Morning,Sandwich,237,92,40.92,32.74
+Weekend,Sunny,Residential,Morning,Tea,237,11,5.47,98.96
+Weekend,Sunny,Residential,Morning,Cold Drink,237,37,23.8,101.04
+Weekday,Rainy,Office,Morning,Maggie,91,52,22.88,17.83
+Weekday,Rainy,Office,Morning,Sandwich,91,93,46,27.89
+Weekday,Rainy,Office,Morning,Tea,91,37,15.65,32.62
+Weekday,Rainy,Office,Morning,Cold Drink,91,47,19.34,33.72
+Weekday,Cloudy,Residential,Afternoon,Maggie,57,66,35.31,9.58
+Weekday,Cloudy,Residential,Afternoon,Sandwich,57,86,36.12,14.56
+Weekday,Cloudy,Residential,Afternoon,Tea,57,28,12.09,22.6
+Weekday,Cloudy,Residential,Afternoon,Cold Drink,57,52,31.41,6.41
+Weekday,Cloudy,Residential,Morning,Maggie,158,58,24.44,16.37
+Weekday,Cloudy,Residential,Morning,Sandwich,158,74,40.89,34.17
+Weekday,Cloudy,Residential,Morning,Tea,158,23,16.04,80.36
+Weekday,Cloudy,Residential,Morning,Cold Drink,158,48,28.72,24.58
+Weekday,Rainy,College,Morning,Maggie,143,61,38.39,38.51
+Weekday,Rainy,College,Morning,Sandwich,143,75,31.86,36.38
+Weekday,Rainy,College,Morning,Tea,143,26,12.7,92.23
+Weekday,Rainy,College,Morning,Cold Drink,143,54,37.41,42.93
+Weekday,Sunny,Office,Afternoon,Maggie,154,48,33.02,37.5
+Weekday,Sunny,Office,Afternoon,Sandwich,154,87,43.21,21.19
+Weekday,Sunny,Office,Afternoon,Tea,154,36,24.98,43.21
+Weekday,Sunny,Office,Afternoon,Cold Drink,154,50,33.8,59.19
+Weekend,Rainy,Residential,Afternoon,Maggie,64,56,37.99,16.07
+Weekend,Rainy,Residential,Afternoon,Sandwich,64,94,48.2,16.96
+Weekend,Rainy,Residential,Afternoon,Tea,64,35,20.44,36.76
+Weekend,Rainy,Residential,Afternoon,Cold Drink,64,59,40.03,19.38
+Weekday,Rainy,College,Morning,Maggie,276,65,41.91,148.38
+Weekday,Rainy,College,Morning,Sandwich,276,86,41.07,50.85
+Weekday,Rainy,College,Morning,Tea,276,30,18.8,128.18
+Weekday,Rainy,College,Morning,Cold Drink,276,37,23.1,73.79
+Weekday,Cloudy,Office,Afternoon,Maggie,284,64,43.6,32.08
+Weekday,Cloudy,Office,Afternoon,Sandwich,284,87,37.62,86.79
+Weekday,Cloudy,Office,Afternoon,Tea,284,29,18.71,46.59
+Weekday,Cloudy,Office,Afternoon,Cold Drink,284,48,21.37,57.57
+Weekend,Cloudy,College,Morning,Maggie,146,63,36.77,19.24
+Weekend,Cloudy,College,Morning,Sandwich,146,92,55.81,37
+Weekend,Cloudy,College,Morning,Tea,146,24,15.92,43.68
+Weekend,Cloudy,College,Morning,Cold Drink,146,37,19.92,15.01
+Weekday,Sunny,Residential,Morning,Maggie,181,47,21.53,65.87
+Weekday,Sunny,Residential,Morning,Sandwich,181,71,32.75,48.24
+Weekday,Sunny,Residential,Morning,Tea,181,23,13.45,36.8
+Weekday,Sunny,Residential,Morning,Cold Drink,181,38,19.48,71.03
+Weekend,Rainy,Office,Afternoon,Maggie,107,61,39.64,16.58
+Weekend,Rainy,Office,Afternoon,Sandwich,107,94,64.62,22.51
+Weekend,Rainy,Office,Afternoon,Tea,107,20,12.54,56.59
+Weekend,Rainy,Office,Afternoon,Cold Drink,107,35,23.2,42.68
+Weekend,Cloudy,College,Afternoon,Maggie,73,61,35.25,15.87
+Weekend,Cloudy,College,Afternoon,Sandwich,73,90,36.05,7.84
+Weekend,Cloudy,College,Afternoon,Tea,73,19,11.13,15.09
+Weekend,Cloudy,College,Afternoon,Cold Drink,73,54,27.88,16.11
+Weekday,Sunny,Office,Evening,Maggie,265,44,25.26,85.37
+Weekday,Sunny,Office,Evening,Sandwich,265,73,30.36,78.22
+Weekday,Sunny,Office,Evening,Tea,265,39,25.02,47.95
+Weekday,Sunny,Office,Evening,Cold Drink,265,57,28.31,115.65
+Weekday,Rainy,College,Afternoon,Maggie,107,45,20.83,55.78
+Weekday,Rainy,College,Afternoon,Sandwich,107,88,46.82,10.8
+Weekday,Rainy,College,Afternoon,Tea,107,32,19.86,27.41
+Weekday,Rainy,College,Afternoon,Cold Drink,107,49,20.52,36.42
+Weekday,Cloudy,College,Afternoon,Maggie,94,40,21.05,27.34
+Weekday,Cloudy,College,Afternoon,Sandwich,94,85,38.55,20.12
+Weekday,Cloudy,College,Afternoon,Tea,94,24,15.65,20.22
+Weekday,Cloudy,College,Afternoon,Cold Drink,94,38,26.03,15.12
+Weekend,Sunny,Office,Afternoon,Maggie,52,52,31.72,14.34
+Weekend,Sunny,Office,Afternoon,Sandwich,52,91,43.85,13.28
+Weekend,Sunny,Office,Afternoon,Tea,52,22,13.97,6.08
+Weekend,Sunny,Office,Afternoon,Cold Drink,52,32,16.92,28.22
+Weekday,Sunny,College,Morning,Maggie,123,44,26.92,35.59
+Weekday,Sunny,College,Morning,Sandwich,123,99,61.22,21.43
+Weekday,Sunny,College,Morning,Tea,123,10,6.34,16.33
+Weekday,Sunny,College,Morning,Cold Drink,123,38,17.01,52.23
+Weekend,Sunny,Residential,Morning,Maggie,85,60,25.24,9.95
+Weekend,Sunny,Residential,Morning,Sandwich,85,99,40.68,15.53
+Weekend,Sunny,Residential,Morning,Tea,85,32,21.5,19.32
+Weekend,Sunny,Residential,Morning,Cold Drink,85,45,23.01,29.15
+Weekday,Sunny,Office,Morning,Maggie,94,43,17.63,11.17
+Weekday,Sunny,Office,Morning,Sandwich,94,95,54.02,19.15
+Weekday,Sunny,Office,Morning,Tea,94,27,14.13,24.95
+Weekday,Sunny,Office,Morning,Cold Drink,94,44,17.89,42.18
+Weekend,Cloudy,Residential,Morning,Maggie,219,65,34.17,38.99
+Weekend,Cloudy,Residential,Morning,Sandwich,219,94,51.54,86.26
+Weekend,Cloudy,Residential,Morning,Tea,219,14,8.35,45.39
+Weekend,Cloudy,Residential,Morning,Cold Drink,219,53,26.58,42.18
+Weekday,Sunny,College,Morning,Maggie,210,57,35.11,47.33
+Weekday,Sunny,College,Morning,Sandwich,210,94,61.59,39.45
+Weekday,Sunny,College,Morning,Tea,210,26,18.05,45.92
+Weekday,Sunny,College,Morning,Cold Drink,210,57,35.16,37.89
+Weekend,Sunny,College,Afternoon,Maggie,247,53,28.49,60.62
+Weekend,Sunny,College,Afternoon,Sandwich,247,90,39.81,51.74
+Weekend,Sunny,College,Afternoon,Tea,247,34,20.42,58.96
+Weekend,Sunny,College,Afternoon,Cold Drink,247,45,24.21,120.33
+Weekend,Cloudy,Office,Evening,Maggie,187,42,17.45,75.37
+Weekend,Cloudy,Office,Evening,Sandwich,187,76,50.28,59.12
+Weekend,Cloudy,Office,Evening,Tea,187,13,8.15,47.84
+Weekend,Cloudy,Office,Evening,Cold Drink,187,53,23.21,55.71
+Weekend,Rainy,Residential,Morning,Maggie,282,47,32.69,140.27
+Weekend,Rainy,Residential,Morning,Sandwich,282,71,29.79,67.45
+Weekend,Rainy,Residential,Morning,Tea,282,17,8.24,119.45
+Weekend,Rainy,Residential,Morning,Cold Drink,282,32,13.81,83.76
+Weekday,Cloudy,Office,Evening,Maggie,196,44,30.33,37.9
+Weekday,Cloudy,Office,Evening,Sandwich,196,79,33.83,48.69
+Weekday,Cloudy,Office,Evening,Tea,196,18,10.32,56.91
+Weekday,Cloudy,Office,Evening,Cold Drink,196,52,30.83,31.12
+Weekend,Rainy,Office,Afternoon,Maggie,61,41,20.3,32.68
+Weekend,Rainy,Office,Afternoon,Sandwich,61,72,48.18,9.19
+Weekend,Rainy,Office,Afternoon,Tea,61,15,6.63,14.7
+Weekend,Rainy,Office,Afternoon,Cold Drink,61,37,24.72,18.07
+Weekday,Sunny,Office,Afternoon,Maggie,159,61,40.08,21.51
+Weekday,Sunny,Office,Afternoon,Sandwich,159,80,44.12,62.03
+Weekday,Sunny,Office,Afternoon,Tea,159,22,15.3,47.76
+Weekday,Sunny,Office,Afternoon,Cold Drink,159,42,20.87,95.19
+Weekend,Cloudy,Residential,Evening,Maggie,177,66,40,27.17
+Weekend,Cloudy,Residential,Evening,Sandwich,177,73,44.95,77.97
+Weekend,Cloudy,Residential,Evening,Tea,177,39,20.03,69.39
+Weekend,Cloudy,Residential,Evening,Cold Drink,177,57,37.47,61.19
+Weekend,Rainy,Residential,Morning,Maggie,188,41,26.51,67.05
+Weekend,Rainy,Residential,Morning,Sandwich,188,90,42.87,65.01
+Weekend,Rainy,Residential,Morning,Tea,188,21,10.51,55.77
+Weekend,Rainy,Residential,Morning,Cold Drink,188,50,21.69,23.72
+Weekday,Sunny,Residential,Afternoon,Maggie,90,58,31.04,29.22
+Weekday,Sunny,Residential,Afternoon,Sandwich,90,94,49.88,24.59
+Weekday,Sunny,Residential,Afternoon,Tea,90,26,16.96,21.72
+Weekday,Sunny,Residential,Afternoon,Cold Drink,90,44,20.95,14.76
+Weekday,Rainy,Office,Evening,Maggie,217,63,26.52,59.55
+Weekday,Rainy,Office,Evening,Sandwich,217,78,46.53,103.51
+Weekday,Rainy,Office,Evening,Tea,217,32,15.48,95.33
+Weekday,Rainy,Office,Evening,Cold Drink,217,33,21.78,35.73
+Weekday,Cloudy,College,Evening,Maggie,106,60,31.35,41.69
+Weekday,Cloudy,College,Evening,Sandwich,106,73,48.28,41.95
+Weekday,Cloudy,College,Evening,Tea,106,12,5.01,39.18
+Weekday,Cloudy,College,Evening,Cold Drink,106,48,32.26,31.93
+Weekday,Cloudy,Residential,Afternoon,Maggie,169,53,28.52,60.73
+Weekday,Cloudy,Residential,Afternoon,Sandwich,169,77,33.78,37.83
+Weekday,Cloudy,Residential,Afternoon,Tea,169,23,12.51,17.81
+Weekday,Cloudy,Residential,Afternoon,Cold Drink,169,37,23.01,63.45
+Weekday,Rainy,College,Evening,Maggie,159,58,37.57,88.66
+Weekday,Rainy,College,Evening,Sandwich,159,97,39.32,51.93
+Weekday,Rainy,College,Evening,Tea,159,18,8.85,83.19
+Weekday,Rainy,College,Evening,Cold Drink,159,57,33.66,37.36
+Weekend,Rainy,College,Morning,Maggie,213,47,22.51,36.37
+Weekend,Rainy,College,Morning,Sandwich,213,70,37.84,40.55
+Weekend,Rainy,College,Morning,Tea,213,20,8.45,69.74
+Weekend,Rainy,College,Morning,Cold Drink,213,43,26.79,24.38
+Weekend,Rainy,College,Morning,Maggie,159,61,40.73,37.11
+Weekend,Rainy,College,Morning,Sandwich,159,92,51.46,39.12
+Weekend,Rainy,College,Morning,Tea,159,25,10.26,85.21
+Weekend,Rainy,College,Morning,Cold Drink,159,43,28.24,40.77
+Weekday,Sunny,Residential,Morning,Maggie,294,68,37.91,32.28
+Weekday,Sunny,Residential,Morning,Sandwich,294,72,46.71,106.93
+Weekday,Sunny,Residential,Morning,Tea,294,10,4.08,117.85
+Weekday,Sunny,Residential,Morning,Cold Drink,294,37,18.32,101.6
+Weekday,Cloudy,College,Evening,Maggie,75,59,31.45,25.39
+Weekday,Cloudy,College,Evening,Sandwich,75,88,46.95,21.21
+Weekday,Cloudy,College,Evening,Tea,75,28,13.19,19.03
+Weekday,Cloudy,College,Evening,Cold Drink,75,57,26.8,25.2
+Weekday,Rainy,Office,Afternoon,Maggie,140,62,43.1,37.94
+Weekday,Rainy,Office,Afternoon,Sandwich,140,75,31.6,24.68
+Weekday,Rainy,Office,Afternoon,Tea,140,26,10.71,59.06
+Weekday,Rainy,Office,Afternoon,Cold Drink,140,56,24.75,25.63
+Weekday,Sunny,College,Morning,Maggie,290,42,19.27,82.14
+Weekday,Sunny,College,Morning,Sandwich,290,82,44.47,56.28
+Weekday,Sunny,College,Morning,Tea,290,38,15.26,38.57
+Weekday,Sunny,College,Morning,Cold Drink,290,59,38.35,153.63
+Weekday,Rainy,Residential,Morning,Maggie,294,56,26.07,96.6
+Weekday,Rainy,Residential,Morning,Sandwich,294,91,61.84,64.42
+Weekday,Rainy,Residential,Morning,Tea,294,14,6.8,198.05
+Weekday,Rainy,Residential,Morning,Cold Drink,294,50,25.18,74.15
+Weekday,Cloudy,College,Evening,Maggie,287,58,31.04,130.47
+Weekday,Cloudy,College,Evening,Sandwich,287,82,42.51,54.62
+Weekday,Cloudy,College,Evening,Tea,287,21,13.96,86.47
+Weekday,Cloudy,College,Evening,Cold Drink,287,42,24.46,55.34
+Weekday,Rainy,Residential,Afternoon,Maggie,246,47,30.97,37.13
+Weekday,Rainy,Residential,Afternoon,Sandwich,246,99,47.25,28.99
+Weekday,Rainy,Residential,Afternoon,Tea,246,24,15.88,65.32
+Weekday,Rainy,Residential,Afternoon,Cold Drink,246,33,17,58.27
+Weekend,Sunny,Residential,Evening,Maggie,205,47,29.39,29.84
+Weekend,Sunny,Residential,Evening,Sandwich,205,95,47.15,79.94
+Weekend,Sunny,Residential,Evening,Tea,205,11,6.61,62.24
+Weekend,Sunny,Residential,Evening,Cold Drink,205,31,20.66,85.98
+Weekend,Rainy,Residential,Afternoon,Maggie,250,64,28.56,56.83
+Weekend,Rainy,Residential,Afternoon,Sandwich,250,75,32.71,92.68
+Weekend,Rainy,Residential,Afternoon,Tea,250,15,9.73,149.02
+Weekend,Rainy,Residential,Afternoon,Cold Drink,250,31,12.51,56.65
+Weekday,Cloudy,College,Evening,Maggie,94,54,22.31,15.44
+Weekday,Cloudy,College,Evening,Sandwich,94,86,39.97,18.95
+Weekday,Cloudy,College,Evening,Tea,94,33,19.66,33.25
+Weekday,Cloudy,College,Evening,Cold Drink,94,51,33.43,20.79
+Weekday,Cloudy,College,Morning,Maggie,279,65,37.51,46.84
+Weekday,Cloudy,College,Morning,Sandwich,279,72,38.52,76.38
+Weekday,Cloudy,College,Morning,Tea,279,18,9.53,70.97
+Weekday,Cloudy,College,Morning,Cold Drink,279,45,18.17,58.87
+Weekend,Sunny,Residential,Afternoon,Maggie,233,67,35.45,33.27
+Weekend,Sunny,Residential,Afternoon,Sandwich,233,93,58.46,89.47
+Weekend,Sunny,Residential,Afternoon,Tea,233,28,11.41,68.44
+Weekend,Sunny,Residential,Afternoon,Cold Drink,233,57,22.91,75.41
+Weekday,Rainy,Residential,Morning,Maggie,162,45,29.44,63.02
+Weekday,Rainy,Residential,Morning,Sandwich,162,85,39.56,64.22
+Weekday,Rainy,Residential,Morning,Tea,162,10,4.32,47.45
+Weekday,Rainy,Residential,Morning,Cold Drink,162,47,25.65,17.54
+Weekday,Cloudy,Residential,Morning,Maggie,53,65,26.76,5.79
+Weekday,Cloudy,Residential,Morning,Sandwich,53,96,43.01,5.67
+Weekday,Cloudy,Residential,Morning,Tea,53,36,15.99,16.97
+Weekday,Cloudy,Residential,Morning,Cold Drink,53,39,26.13,7.15
+Weekend,Sunny,Residential,Evening,Maggie,183,43,30.03,57.89
+Weekend,Sunny,Residential,Evening,Sandwich,183,98,47.68,85.28
+Weekend,Sunny,Residential,Evening,Tea,183,29,11.87,71.59
+Weekend,Sunny,Residential,Evening,Cold Drink,183,51,28.68,40.14
+Weekday,Sunny,Office,Morning,Maggie,135,60,39.01,31.34
+Weekday,Sunny,Office,Morning,Sandwich,135,79,51.2,42.22
+Weekday,Sunny,Office,Morning,Tea,135,35,14.61,35.58
+Weekday,Sunny,Office,Morning,Cold Drink,135,41,19.29,70.71
+Weekend,Cloudy,College,Evening,Maggie,73,68,36.26,25.22
+Weekend,Cloudy,College,Evening,Sandwich,73,80,36.98,29.32
+Weekend,Cloudy,College,Evening,Tea,73,12,7.97,20.95
+Weekend,Cloudy,College,Evening,Cold Drink,73,54,34.44,17.41
+Weekday,Sunny,College,Morning,Maggie,150,43,28.9,20.96
+Weekday,Sunny,College,Morning,Sandwich,150,96,64.59,33.25
+Weekday,Sunny,College,Morning,Tea,150,22,11.83,21.72
+Weekday,Sunny,College,Morning,Cold Drink,150,51,32.49,30.93
+Weekday,Sunny,Office,Afternoon,Maggie,61,45,20.01,14.57
+Weekday,Sunny,Office,Afternoon,Sandwich,61,85,36.39,19.91
+Weekday,Sunny,Office,Afternoon,Tea,61,15,8.65,12.97
+Weekday,Sunny,Office,Afternoon,Cold Drink,61,35,19.49,24.6
+Weekday,Cloudy,Residential,Evening,Maggie,241,64,32.56,91.88
+Weekday,Cloudy,Residential,Evening,Sandwich,241,90,62.48,64.28
+Weekday,Cloudy,Residential,Evening,Tea,241,28,16.26,66.86
+Weekday,Cloudy,Residential,Evening,Cold Drink,241,36,24.73,38.59
+Weekday,Sunny,College,Morning,Maggie,162,40,26.72,19.24
+Weekday,Sunny,College,Morning,Sandwich,162,75,35.76,17.7
+Weekday,Sunny,College,Morning,Tea,162,24,14.11,79.59
+Weekday,Sunny,College,Morning,Cold Drink,162,45,28.3,92.04
+Weekend,Cloudy,Residential,Afternoon,Maggie,187,49,28.9,54.85
+Weekend,Cloudy,Residential,Afternoon,Sandwich,187,81,51.95,34.34
+Weekend,Cloudy,Residential,Afternoon,Tea,187,33,18.43,63.21
+Weekend,Cloudy,Residential,Afternoon,Cold Drink,187,32,22.38,56.67
+Weekday,Cloudy,Office,Evening,Maggie,116,40,20.1,40.35
+Weekday,Cloudy,Office,Evening,Sandwich,116,84,37.2,45.38
+Weekday,Cloudy,Office,Evening,Tea,116,14,9.05,39.76
+Weekday,Cloudy,Office,Evening,Cold Drink,116,30,19.61,32.95
+Weekend,Cloudy,College,Afternoon,Maggie,223,53,27.68,49.54
+Weekend,Cloudy,College,Afternoon,Sandwich,223,75,36.89,59.04
+Weekend,Cloudy,College,Afternoon,Tea,223,23,14.78,85.7
+Weekend,Cloudy,College,Afternoon,Cold Drink,223,31,12.46,29.05
+Weekend,Rainy,College,Evening,Maggie,211,49,23.16,92.47
+Weekend,Rainy,College,Evening,Sandwich,211,71,29.95,55.92
+Weekend,Rainy,College,Evening,Tea,211,24,11.12,113.63
+Weekend,Rainy,College,Evening,Cold Drink,211,32,20.51,79.92
+Weekend,Cloudy,Residential,Afternoon,Maggie,270,46,24.97,45.31
+Weekend,Cloudy,Residential,Afternoon,Sandwich,270,78,36.33,29.73
+Weekend,Cloudy,Residential,Afternoon,Tea,270,28,14.21,79.47
+Weekend,Cloudy,Residential,Afternoon,Cold Drink,270,51,23.27,85.3
+Weekend,Rainy,Office,Afternoon,Maggie,277,47,26.62,120.96
+Weekend,Rainy,Office,Afternoon,Sandwich,277,87,41.11,87.03
+Weekend,Rainy,Office,Afternoon,Tea,277,29,14.24,77.69
+Weekend,Rainy,Office,Afternoon,Cold Drink,277,59,32.81,39.57
+Weekday,Rainy,Residential,Evening,Maggie,255,41,18.05,132.59
+Weekday,Rainy,Residential,Evening,Sandwich,255,80,38.52,67.54
+Weekday,Rainy,Residential,Evening,Tea,255,34,13.6,96.9
+Weekday,Rainy,Residential,Evening,Cold Drink,255,55,33.8,70.9
+Weekday,Cloudy,Office,Morning,Maggie,183,44,30.01,22.84
+Weekday,Cloudy,Office,Morning,Sandwich,183,97,41.77,38.08
+Weekday,Cloudy,Office,Morning,Tea,183,28,15.95,85.64
+Weekday,Cloudy,Office,Morning,Cold Drink,183,33,21.01,67.26
+Weekday,Cloudy,College,Afternoon,Maggie,161,63,43.42,20.41
+Weekday,Cloudy,College,Afternoon,Sandwich,161,95,39.21,30.36
+Weekday,Cloudy,College,Afternoon,Tea,161,37,21.82,50.1
+Weekday,Cloudy,College,Afternoon,Cold Drink,161,39,17.23,28.38
+Weekday,Sunny,College,Morning,Maggie,73,51,22.38,22.11
+Weekday,Sunny,College,Morning,Sandwich,73,94,46.01,6.73
+Weekday,Sunny,College,Morning,Tea,73,28,16.53,37.94
+Weekday,Sunny,College,Morning,Cold Drink,73,46,23.37,42.38
+Weekend,Sunny,Residential,Evening,Maggie,289,57,33.65,114.87
+Weekend,Sunny,Residential,Evening,Sandwich,289,78,32.43,114.54
+Weekend,Sunny,Residential,Evening,Tea,289,27,15.27,64.95
+Weekend,Sunny,Residential,Evening,Cold Drink,289,31,14.37,128.84
+Weekday,Rainy,Office,Morning,Maggie,149,52,32.56,24.76
+Weekday,Rainy,Office,Morning,Sandwich,149,78,34.4,44.03
+Weekday,Rainy,Office,Morning,Tea,149,27,16.77,114.01
+Weekday,Rainy,Office,Morning,Cold Drink,149,41,21.26,46.78
+Weekend,Sunny,College,Evening,Maggie,276,52,21.71,44.2
+Weekend,Sunny,College,Evening,Sandwich,276,79,44.49,43.04
+Weekend,Sunny,College,Evening,Tea,276,19,7.68,58.99
+Weekend,Sunny,College,Evening,Cold Drink,276,53,34.53,129.51
+Weekend,Rainy,Residential,Morning,Maggie,180,54,26.95,100.39
+Weekend,Rainy,Residential,Morning,Sandwich,180,89,35.86,43.06
+Weekend,Rainy,Residential,Morning,Tea,180,13,5.36,76.97
+Weekend,Rainy,Residential,Morning,Cold Drink,180,30,14.81,59.8
+Weekday,Sunny,Office,Evening,Maggie,295,60,25.37,76.03
+Weekday,Sunny,Office,Evening,Sandwich,295,78,34.01,63.6
+Weekday,Sunny,Office,Evening,Tea,295,30,15.08,94.9
+Weekday,Sunny,Office,Evening,Cold Drink,295,36,18.16,93.6
+Weekend,Cloudy,College,Morning,Maggie,184,43,28.13,19.7
+Weekend,Cloudy,College,Morning,Sandwich,184,80,51.91,51.86
+Weekend,Cloudy,College,Morning,Tea,184,33,17.73,52.48
+Weekend,Cloudy,College,Morning,Cold Drink,184,33,22.1,57.6
+Weekday,Rainy,Office,Morning,Maggie,128,67,36.32,22.53
+Weekday,Rainy,Office,Morning,Sandwich,128,95,66.22,21.98
+Weekday,Rainy,Office,Morning,Tea,128,33,23.01,65.73
+Weekday,Rainy,Office,Morning,Cold Drink,128,44,25.01,42.63
+Weekday,Cloudy,Office,Evening,Maggie,155,64,37.55,62.2
+Weekday,Cloudy,Office,Evening,Sandwich,155,82,39.6,73.38
+Weekday,Cloudy,Office,Evening,Tea,155,17,10.04,33.55
+Weekday,Cloudy,Office,Evening,Cold Drink,155,57,33.79,53.16
+Weekday,Rainy,Office,Morning,Maggie,96,48,29.14,44.21
+Weekday,Rainy,Office,Morning,Sandwich,96,87,35,27.77
+Weekday,Rainy,Office,Morning,Tea,96,20,8.27,42.06
+Weekday,Rainy,Office,Morning,Cold Drink,96,35,19.56,16.57
+Weekday,Rainy,College,Afternoon,Maggie,246,45,21.71,126.23
+Weekday,Rainy,College,Afternoon,Sandwich,246,87,49.07,26.53
+Weekday,Rainy,College,Afternoon,Tea,246,39,22.16,132.54
+Weekday,Rainy,College,Afternoon,Cold Drink,246,37,17.12,28.29
+Weekday,Sunny,Residential,Morning,Maggie,99,50,25.88,29.48
+Weekday,Sunny,Residential,Morning,Sandwich,99,78,35.81,38.16
+Weekday,Sunny,Residential,Morning,Tea,99,25,13.05,49.67
+Weekday,Sunny,Residential,Morning,Cold Drink,99,59,33.68,26.41
+Weekday,Rainy,Residential,Evening,Maggie,104,45,26.4,73.82
+Weekday,Rainy,Residential,Evening,Sandwich,104,73,47.36,39.89
+Weekday,Rainy,Residential,Evening,Tea,104,38,25.96,60.53
+Weekday,Rainy,Residential,Evening,Cold Drink,104,50,34.29,40.57
+Weekend,Sunny,Office,Afternoon,Maggie,145,43,20.39,42.37
+Weekend,Sunny,Office,Afternoon,Sandwich,145,76,48.21,56.27
+Weekend,Sunny,Office,Afternoon,Tea,145,27,17.05,36.2
+Weekend,Sunny,Office,Afternoon,Cold Drink,145,38,24.72,72.93
+Weekend,Rainy,Residential,Evening,Maggie,262,63,40.47,72.33
+Weekend,Rainy,Residential,Evening,Sandwich,262,92,56.92,40.44
+Weekend,Rainy,Residential,Evening,Tea,262,14,6.63,86.79
+Weekend,Rainy,Residential,Evening,Cold Drink,262,41,24.55,35.51
+Weekday,Rainy,Residential,Evening,Maggie,83,58,31.81,37.92
+Weekday,Rainy,Residential,Evening,Sandwich,83,76,38.88,21.69
+Weekday,Rainy,Residential,Evening,Tea,83,30,12.29,14.61
+Weekday,Rainy,Residential,Evening,Cold Drink,83,36,20.63,17.19
+Weekend,Sunny,College,Morning,Maggie,140,57,34.03,24.1
+Weekend,Sunny,College,Morning,Sandwich,140,95,63,38.45
+Weekend,Sunny,College,Morning,Tea,140,32,17.66,30.26
+Weekend,Sunny,College,Morning,Cold Drink,140,38,17.81,81.25
+Weekend,Rainy,College,Morning,Maggie,270,43,24.7,93.55
+Weekend,Rainy,College,Morning,Sandwich,270,88,46.49,37.4
+Weekend,Rainy,College,Morning,Tea,270,28,13.57,108.41
+Weekend,Rainy,College,Morning,Cold Drink,270,44,29.53,95.51
+Weekday,Sunny,Office,Evening,Maggie,155,59,32.41,30.02
+Weekday,Sunny,Office,Evening,Sandwich,155,98,46.71,35.1
+Weekday,Sunny,Office,Evening,Tea,155,25,16.41,25.13
+Weekday,Sunny,Office,Evening,Cold Drink,155,54,27.5,43.84
+Weekday,Sunny,College,Evening,Maggie,160,63,40.83,21.94
+Weekday,Sunny,College,Evening,Sandwich,160,73,44.39,63.62
+Weekday,Sunny,College,Evening,Tea,160,19,12.3,40.75
+Weekday,Sunny,College,Evening,Cold Drink,160,46,25.84,44.34
+Weekday,Sunny,College,Evening,Maggie,230,69,38.61,76.49
+Weekday,Sunny,College,Evening,Sandwich,230,97,54.01,22.49
+Weekday,Sunny,College,Evening,Tea,230,19,8.74,37.05
+Weekday,Sunny,College,Evening,Cold Drink,230,50,24.56,58.35
+Weekday,Rainy,Residential,Afternoon,Maggie,292,43,26.77,155.28
+Weekday,Rainy,Residential,Afternoon,Sandwich,292,92,53.63,107.69
+Weekday,Rainy,Residential,Afternoon,Tea,292,14,8.59,151.12
+Weekday,Rainy,Residential,Afternoon,Cold Drink,292,43,18.82,58.72
+Weekday,Rainy,Residential,Afternoon,Maggie,262,61,35.21,117.23
+Weekday,Rainy,Residential,Afternoon,Sandwich,262,96,50.34,85.45
+Weekday,Rainy,Residential,Afternoon,Tea,262,36,17.31,100.32
+Weekday,Rainy,Residential,Afternoon,Cold Drink,262,46,31.54,29.53
+Weekday,Sunny,Residential,Morning,Maggie,172,60,34.08,57.49
+Weekday,Sunny,Residential,Morning,Sandwich,172,94,42.45,67.38
+Weekday,Sunny,Residential,Morning,Tea,172,33,14.77,34.45
+Weekday,Sunny,Residential,Morning,Cold Drink,172,36,19.39,97.08
+Weekday,Rainy,Residential,Morning,Maggie,175,64,30.86,89.81
+Weekday,Rainy,Residential,Morning,Sandwich,175,98,43.38,28.7
+Weekday,Rainy,Residential,Morning,Tea,175,29,20.11,121.81
+Weekday,Rainy,Residential,Morning,Cold Drink,175,46,28.43,47.01
+Weekday,Sunny,College,Evening,Maggie,267,54,29.81,69.26
+Weekday,Sunny,College,Evening,Sandwich,267,73,37.62,34.46
+Weekday,Sunny,College,Evening,Tea,267,29,12.68,90.58
+Weekday,Sunny,College,Evening,Cold Drink,267,30,20.73,92.64
+Weekend,Cloudy,College,Evening,Maggie,183,64,35.86,57.58
+Weekend,Cloudy,College,Evening,Sandwich,183,90,49.63,48.5
+Weekend,Cloudy,College,Evening,Tea,183,15,6.53,71.09
+Weekend,Cloudy,College,Evening,Cold Drink,183,59,33.38,40.07
+Weekday,Cloudy,Office,Morning,Maggie,197,43,25.26,38.41
+Weekday,Cloudy,Office,Morning,Sandwich,197,91,54.76,66.78
+Weekday,Cloudy,Office,Morning,Tea,197,16,7.9,97.47
+Weekday,Cloudy,Office,Morning,Cold Drink,197,47,30.54,73.25
+Weekend,Sunny,College,Afternoon,Maggie,102,50,22.87,22.8
+Weekend,Sunny,College,Afternoon,Sandwich,102,75,37.52,32.62
+Weekend,Sunny,College,Afternoon,Tea,102,23,13.38,17.76
+Weekend,Sunny,College,Afternoon,Cold Drink,102,30,14.57,35.16
+Weekday,Rainy,College,Evening,Maggie,243,69,35.34,167.67
+Weekday,Rainy,College,Evening,Sandwich,243,82,52.11,65.33
+Weekday,Rainy,College,Evening,Tea,243,32,14.71,82.19
+Weekday,Rainy,College,Evening,Cold Drink,243,51,29.6,96.5
+Weekend,Rainy,Residential,Afternoon,Maggie,154,64,25.82,54.29
+Weekend,Rainy,Residential,Afternoon,Sandwich,154,79,35.85,60.25
+Weekend,Rainy,Residential,Afternoon,Tea,154,14,9.71,61.6
+Weekend,Rainy,Residential,Afternoon,Cold Drink,154,47,28.73,34.93
+Weekday,Sunny,Residential,Evening,Maggie,180,49,27.2,69.56
+Weekday,Sunny,Residential,Evening,Sandwich,180,71,34.52,64.16
+Weekday,Sunny,Residential,Evening,Tea,180,31,13.74,50.15
+Weekday,Sunny,Residential,Evening,Cold Drink,180,56,23.67,104.07
+Weekday,Sunny,Office,Evening,Maggie,133,42,24.97,28.76
+Weekday,Sunny,Office,Evening,Sandwich,133,71,43.39,33.83
+Weekday,Sunny,Office,Evening,Tea,133,36,21.7,41.49
+Weekday,Sunny,Office,Evening,Cold Drink,133,45,25.88,51.42
+Weekday,Rainy,College,Morning,Maggie,132,65,34.76,56.17
+Weekday,Rainy,College,Morning,Sandwich,132,96,59.61,33.72
+Weekday,Rainy,College,Morning,Tea,132,36,22.74,74.02
+Weekday,Rainy,College,Morning,Cold Drink,132,59,35.64,29.36
+Weekday,Sunny,Residential,Morning,Maggie,186,43,29.32,30.9
+Weekday,Sunny,Residential,Morning,Sandwich,186,78,50.85,29.12
+Weekday,Sunny,Residential,Morning,Tea,186,15,10.4,31.57
+Weekday,Sunny,Residential,Morning,Cold Drink,186,47,29.27,55.27
+Weekend,Cloudy,College,Evening,Maggie,202,67,44.11,83.67
+Weekend,Cloudy,College,Evening,Sandwich,202,96,59.24,17.43
+Weekend,Cloudy,College,Evening,Tea,202,33,15.47,53.34
+Weekend,Cloudy,College,Evening,Cold Drink,202,38,17.96,63.47
+Weekend,Cloudy,College,Morning,Maggie,200,54,33.57,20.82
+Weekend,Cloudy,College,Morning,Sandwich,200,70,32.5,36.25
+Weekend,Cloudy,College,Morning,Tea,200,25,16.83,53.68
+Weekend,Cloudy,College,Morning,Cold Drink,200,47,29.13,56.4
+Weekday,Rainy,Office,Evening,Maggie,187,57,36.57,116.76
+Weekday,Rainy,Office,Evening,Sandwich,187,96,46.56,75.41
+Weekday,Rainy,Office,Evening,Tea,187,12,7.02,90.56
+Weekday,Rainy,Office,Evening,Cold Drink,187,53,36.9,35.05
+Weekend,Rainy,College,Morning,Maggie,183,50,28.07,49.59
+Weekend,Rainy,College,Morning,Sandwich,183,97,65.43,45.85
+Weekend,Rainy,College,Morning,Tea,183,27,17.18,84.32
+Weekend,Rainy,College,Morning,Cold Drink,183,58,38.4,53.32
+Weekend,Rainy,Office,Evening,Maggie,86,54,22.64,53.78
+Weekend,Rainy,Office,Evening,Sandwich,86,91,57.83,28.86
+Weekend,Rainy,Office,Evening,Tea,86,22,10.79,32.35
+Weekend,Rainy,Office,Evening,Cold Drink,86,58,31.37,9.33
+Weekend,Cloudy,College,Evening,Maggie,52,53,21.38,13.89
+Weekend,Cloudy,College,Evening,Sandwich,52,75,33.59,9.24
+Weekend,Cloudy,College,Evening,Tea,52,14,8.9,19.9
+Weekend,Cloudy,College,Evening,Cold Drink,52,47,31.23,17.9
+Weekend,Cloudy,Residential,Morning,Maggie,178,43,29.13,41.47
+Weekend,Cloudy,Residential,Morning,Sandwich,178,79,44.29,36.86
+Weekend,Cloudy,Residential,Morning,Tea,178,35,22.7,77.93
+Weekend,Cloudy,Residential,Morning,Cold Drink,178,52,24.17,61.02
+Weekday,Rainy,Office,Morning,Maggie,155,65,44.35,84.37
+Weekday,Rainy,Office,Morning,Sandwich,155,90,60.4,19.11
+Weekday,Rainy,Office,Morning,Tea,155,22,12.12,47.8
+Weekday,Rainy,Office,Morning,Cold Drink,155,51,32.56,56.62
+Weekend,Cloudy,Residential,Afternoon,Maggie,106,61,29.82,25.2
+Weekend,Cloudy,Residential,Afternoon,Sandwich,106,92,41.75,32.67
+Weekend,Cloudy,Residential,Afternoon,Tea,106,24,13.12,24.26
+Weekend,Cloudy,Residential,Afternoon,Cold Drink,106,52,20.83,33.46
+Weekend,Rainy,Office,Afternoon,Maggie,295,40,20.14,99.24
+Weekend,Rainy,Office,Afternoon,Sandwich,295,79,52.5,40.25
+Weekend,Rainy,Office,Afternoon,Tea,295,24,10.36,73.77
+Weekend,Rainy,Office,Afternoon,Cold Drink,295,38,17.62,57.02
+Weekday,Cloudy,Residential,Afternoon,Maggie,176,58,29.04,57.17
+Weekday,Cloudy,Residential,Afternoon,Sandwich,176,93,54.39,47
+Weekday,Cloudy,Residential,Afternoon,Tea,176,24,15.03,63.61
+Weekday,Cloudy,Residential,Afternoon,Cold Drink,176,32,19.49,54.67
+Weekday,Sunny,Office,Afternoon,Maggie,292,52,34.38,84.51
+Weekday,Sunny,Office,Afternoon,Sandwich,292,85,58.1,90.22
+Weekday,Sunny,Office,Afternoon,Tea,292,30,13.05,58.74
+Weekday,Sunny,Office,Afternoon,Cold Drink,292,53,32.2,70.9
+Weekday,Rainy,College,Evening,Maggie,56,65,35.9,22.76
+Weekday,Rainy,College,Evening,Sandwich,56,86,50.17,16.8
+Weekday,Rainy,College,Evening,Tea,56,36,19.52,22.53
+Weekday,Rainy,College,Evening,Cold Drink,56,50,23.33,17.61
+Weekend,Sunny,Office,Morning,Maggie,169,63,41,58.54
+Weekend,Sunny,Office,Morning,Sandwich,169,85,39.19,23.36
+Weekend,Sunny,Office,Morning,Tea,169,31,19.76,51.71
+Weekend,Sunny,Office,Morning,Cold Drink,169,48,31.02,56.12
+Weekday,Cloudy,Residential,Morning,Maggie,223,69,41.01,23.34
+Weekday,Cloudy,Residential,Morning,Sandwich,223,85,39.3,25.11
+Weekday,Cloudy,Residential,Morning,Tea,223,15,7.75,76.11
+Weekday,Cloudy,Residential,Morning,Cold Drink,223,33,21.59,58.8
+Weekday,Sunny,Office,Afternoon,Maggie,126,52,36.23,21.35
+Weekday,Sunny,Office,Afternoon,Sandwich,126,98,55.64,24.74
+Weekday,Sunny,Office,Afternoon,Tea,126,28,11.79,40.17
+Weekday,Sunny,Office,Afternoon,Cold Drink,126,37,15.56,39.85
+Weekday,Cloudy,Office,Evening,Maggie,156,66,33.91,65.41
+Weekday,Cloudy,Office,Evening,Sandwich,156,86,44.03,54.21
+Weekday,Cloudy,Office,Evening,Tea,156,11,6.95,41.27
+Weekday,Cloudy,Office,Evening,Cold Drink,156,54,31.01,35.54
+Weekend,Sunny,College,Afternoon,Maggie,88,65,40.79,9.19
+Weekend,Sunny,College,Afternoon,Sandwich,88,88,51.58,19.88
+Weekend,Sunny,College,Afternoon,Tea,88,16,9.58,17.96
+Weekend,Sunny,College,Afternoon,Cold Drink,88,35,21.87,49.17
+Weekday,Cloudy,Residential,Morning,Maggie,113,65,43.34,30.92
+Weekday,Cloudy,Residential,Morning,Sandwich,113,91,57.1,21.7
+Weekday,Cloudy,Residential,Morning,Tea,113,38,23.37,26.63
+Weekday,Cloudy,Residential,Morning,Cold Drink,113,37,21.33,17.58
+Weekday,Cloudy,Office,Afternoon,Maggie,271,51,31.48,87.73
+Weekday,Cloudy,Office,Afternoon,Sandwich,271,85,35.96,83.7
+Weekday,Cloudy,Office,Afternoon,Tea,271,21,11.2,63.75
+Weekday,Cloudy,Office,Afternoon,Cold Drink,271,59,37.69,49.21
+Weekend,Sunny,Residential,Evening,Maggie,215,42,24.82,50.92
+Weekend,Sunny,Residential,Evening,Sandwich,215,82,53.12,61.65
+Weekend,Sunny,Residential,Evening,Tea,215,23,10.71,59.9
+Weekend,Sunny,Residential,Evening,Cold Drink,215,51,21.37,107.4
+Weekday,Cloudy,Residential,Afternoon,Maggie,265,59,37.29,85.95
+Weekday,Cloudy,Residential,Afternoon,Sandwich,265,70,37.08,28.98
+Weekday,Cloudy,Residential,Afternoon,Tea,265,31,12.71,96.4
+Weekday,Cloudy,Residential,Afternoon,Cold Drink,265,32,20.71,76.59
+Weekend,Rainy,Office,Morning,Maggie,105,53,35.32,31.12
+Weekend,Rainy,Office,Morning,Sandwich,105,98,52.03,31.5
+Weekend,Rainy,Office,Morning,Tea,105,27,17.64,35.77
+Weekend,Rainy,Office,Morning,Cold Drink,105,51,31.21,40.97
+Weekday,Cloudy,College,Evening,Maggie,140,68,44.7,67.08
+Weekday,Cloudy,College,Evening,Sandwich,140,72,41.14,32.12
+Weekday,Cloudy,College,Evening,Tea,140,22,9.66,14.94
+Weekday,Cloudy,College,Evening,Cold Drink,140,56,36.67,31.05
+Weekend,Cloudy,College,Evening,Maggie,135,45,18.23,60.75
+Weekend,Cloudy,College,Evening,Sandwich,135,86,54.07,12.66
+Weekend,Cloudy,College,Evening,Tea,135,24,13.28,13.72
+Weekend,Cloudy,College,Evening,Cold Drink,135,32,18.8,48.51
+Weekend,Cloudy,College,Morning,Maggie,78,58,30.9,24.35
+Weekend,Cloudy,College,Morning,Sandwich,78,80,45.89,21.13
+Weekend,Cloudy,College,Morning,Tea,78,32,21.71,38.4
+Weekend,Cloudy,College,Morning,Cold Drink,78,52,30.45,22.61
+Weekday,Cloudy,College,Afternoon,Maggie,181,61,39.12,56.93
+Weekday,Cloudy,College,Afternoon,Sandwich,181,94,51.81,48.75
+Weekday,Cloudy,College,Afternoon,Tea,181,38,22.89,54.89
+Weekday,Cloudy,College,Afternoon,Cold Drink,181,47,20.35,68.33
+Weekend,Sunny,Residential,Morning,Maggie,108,64,38.05,19.72
+Weekend,Sunny,Residential,Morning,Sandwich,108,88,54.94,37.05
+Weekend,Sunny,Residential,Morning,Tea,108,10,4.54,43.74
+Weekend,Sunny,Residential,Morning,Cold Drink,108,51,29.27,38.21
+Weekend,Rainy,Office,Afternoon,Maggie,161,40,23.32,74.84
+Weekend,Rainy,Office,Afternoon,Sandwich,161,81,43.45,49.22
+Weekend,Rainy,Office,Afternoon,Tea,161,15,8.41,59.54
+Weekend,Rainy,Office,Afternoon,Cold Drink,161,59,39.2,44.33
+Weekday,Rainy,Office,Afternoon,Maggie,75,50,28.89,23.23
+Weekday,Rainy,Office,Afternoon,Sandwich,75,91,55.58,9
+Weekday,Rainy,Office,Afternoon,Tea,75,35,14.89,31.73
+Weekday,Rainy,Office,Afternoon,Cold Drink,75,49,23.22,23.04
+Weekday,Cloudy,College,Evening,Maggie,288,63,28.92,111.02
+Weekday,Cloudy,College,Evening,Sandwich,288,93,61.88,33.28
+Weekday,Cloudy,College,Evening,Tea,288,28,11.45,106.33
+Weekday,Cloudy,College,Evening,Cold Drink,288,44,25.56,82.28
+Weekday,Cloudy,College,Afternoon,Maggie,159,59,29.75,36.67
+Weekday,Cloudy,College,Afternoon,Sandwich,159,81,52.25,39.6
+Weekday,Cloudy,College,Afternoon,Tea,159,39,19.18,42.22
+Weekday,Cloudy,College,Afternoon,Cold Drink,159,31,13.06,25.95
+Weekend,Cloudy,Office,Afternoon,Maggie,265,49,20.7,61.36
+Weekend,Cloudy,Office,Afternoon,Sandwich,265,89,61.58,86.86
+Weekend,Cloudy,Office,Afternoon,Tea,265,17,7.38,27.19
+Weekend,Cloudy,Office,Afternoon,Cold Drink,265,52,33.25,52.44
+Weekend,Sunny,Office,Afternoon,Maggie,88,67,33.94,26.59
+Weekend,Sunny,Office,Afternoon,Sandwich,88,73,33.81,30.16
+Weekend,Sunny,Office,Afternoon,Tea,88,27,13.58,31.63
+Weekend,Sunny,Office,Afternoon,Cold Drink,88,53,22.52,32.39
+Weekday,Cloudy,Office,Afternoon,Maggie,246,45,28.54,47.01
+Weekday,Cloudy,Office,Afternoon,Sandwich,246,93,54.61,44.79
+Weekday,Cloudy,Office,Afternoon,Tea,246,39,25.84,57.2
+Weekday,Cloudy,Office,Afternoon,Cold Drink,246,39,25.22,28.81
+Weekend,Rainy,College,Afternoon,Maggie,190,64,36.63,85.55
+Weekend,Rainy,College,Afternoon,Sandwich,190,77,46.14,30.36
+Weekend,Rainy,College,Afternoon,Tea,190,24,13.47,100.33
+Weekend,Rainy,College,Afternoon,Cold Drink,190,46,28.96,72.6
+Weekend,Cloudy,College,Afternoon,Maggie,126,55,32.82,33.75
+Weekend,Cloudy,College,Afternoon,Sandwich,126,75,48.86,26.26
+Weekend,Cloudy,College,Afternoon,Tea,126,12,7.68,17.26
+Weekend,Cloudy,College,Afternoon,Cold Drink,126,36,19.3,41.42
+Weekend,Sunny,College,Morning,Maggie,290,44,24.33,93.05
+Weekend,Sunny,College,Morning,Sandwich,290,97,53.05,59.56
+Weekend,Sunny,College,Morning,Tea,290,13,8.98,143.15
+Weekend,Sunny,College,Morning,Cold Drink,290,42,25.14,61.93
+Weekend,Sunny,Office,Evening,Maggie,205,42,19.1,85.54
+Weekend,Sunny,Office,Evening,Sandwich,205,91,52.89,67.15
+Weekend,Sunny,Office,Evening,Tea,205,32,18.28,29.29
+Weekend,Sunny,Office,Evening,Cold Drink,205,43,20.46,117.36
+Weekend,Cloudy,College,Evening,Maggie,80,68,43.44,14.64
+Weekend,Cloudy,College,Evening,Sandwich,80,94,38.31,11.81
+Weekend,Cloudy,College,Evening,Tea,80,30,19.87,13.99
+Weekend,Cloudy,College,Evening,Cold Drink,80,51,31.9,22.96
+Weekend,Rainy,College,Morning,Maggie,130,61,29.26,51.93
+Weekend,Rainy,College,Morning,Sandwich,130,82,35.11,22.37
+Weekend,Rainy,College,Morning,Tea,130,27,18.48,97.19
+Weekend,Rainy,College,Morning,Cold Drink,130,37,17.1,22.29
+Weekday,Sunny,Residential,Morning,Maggie,290,67,42.09,42.44
+Weekday,Sunny,Residential,Morning,Sandwich,290,71,44.6,73.62
+Weekday,Sunny,Residential,Morning,Tea,290,39,27.29,124.72
+Weekday,Sunny,Residential,Morning,Cold Drink,290,58,35.52,105.58
+Weekday,Sunny,Office,Morning,Maggie,161,62,36.83,27.05
+Weekday,Sunny,Office,Morning,Sandwich,161,84,56.55,40.73
+Weekday,Sunny,Office,Morning,Tea,161,30,12.45,23.12
+Weekday,Sunny,Office,Morning,Cold Drink,161,30,19.68,91.41
+Weekday,Sunny,Residential,Evening,Maggie,147,55,25.92,20.27
+Weekday,Sunny,Residential,Evening,Sandwich,147,70,44.24,66.06
+Weekday,Sunny,Residential,Evening,Tea,147,17,8.23,22.35
+Weekday,Sunny,Residential,Evening,Cold Drink,147,30,17.5,35.27
+Weekday,Cloudy,Residential,Evening,Maggie,144,56,25.94,46.13
+Weekday,Cloudy,Residential,Evening,Sandwich,144,90,51.28,65.45
+Weekday,Cloudy,Residential,Evening,Tea,144,15,7.65,28.14
+Weekday,Cloudy,Residential,Evening,Cold Drink,144,42,27.22,37.07
+Weekday,Sunny,Residential,Evening,Maggie,188,63,25.77,87.63
+Weekday,Sunny,Residential,Evening,Sandwich,188,77,52.36,40.53
+Weekday,Sunny,Residential,Evening,Tea,188,26,15.5,29.65
+Weekday,Sunny,Residential,Evening,Cold Drink,188,57,37.3,108.33
+Weekday,Rainy,Office,Morning,Maggie,92,43,29.63,14.23
+Weekday,Rainy,Office,Morning,Sandwich,92,86,52.62,26.39
+Weekday,Rainy,Office,Morning,Tea,92,23,14.68,32.91
+Weekday,Rainy,Office,Morning,Cold Drink,92,43,18.22,21.42
+Weekday,Rainy,Office,Morning,Maggie,240,51,23.24,76.23
+Weekday,Rainy,Office,Morning,Sandwich,240,73,33.55,35.87
+Weekday,Rainy,Office,Morning,Tea,240,24,10.77,130.37
+Weekday,Rainy,Office,Morning,Cold Drink,240,53,26.63,56.31
+Weekday,Rainy,Residential,Afternoon,Maggie,201,69,28.84,111.99
+Weekday,Rainy,Residential,Afternoon,Sandwich,201,89,55.73,54.95
+Weekday,Rainy,Residential,Afternoon,Tea,201,12,5.86,40.53
+Weekday,Rainy,Residential,Afternoon,Cold Drink,201,56,23.33,20.51
+Weekend,Sunny,College,Afternoon,Maggie,224,41,26.93,46.37
+Weekend,Sunny,College,Afternoon,Sandwich,224,81,54.49,30.44
+Weekend,Sunny,College,Afternoon,Tea,224,32,13.83,51.97
+Weekend,Sunny,College,Afternoon,Cold Drink,224,31,14.12,68.08
+Weekday,Sunny,Office,Morning,Maggie,239,68,38.04,44.55
+Weekday,Sunny,Office,Morning,Sandwich,239,84,57.54,33.73
+Weekday,Sunny,Office,Morning,Tea,239,24,12.72,46.39
+Weekday,Sunny,Office,Morning,Cold Drink,239,54,27.92,74.04
+Weekday,Cloudy,Residential,Evening,Maggie,67,60,38.78,21.71
+Weekday,Cloudy,Residential,Evening,Sandwich,67,92,56.11,17.95
+Weekday,Cloudy,Residential,Evening,Tea,67,19,9.46,6.92
+Weekday,Cloudy,Residential,Evening,Cold Drink,67,52,24.76,22.38
+Weekend,Sunny,College,Evening,Maggie,86,63,26.94,28.43
+Weekend,Sunny,College,Evening,Sandwich,86,74,31.09,28.74
+Weekend,Sunny,College,Evening,Tea,86,10,6.1,24.52
+Weekend,Sunny,College,Evening,Cold Drink,86,40,22.39,16.9
+Weekend,Sunny,Residential,Evening,Maggie,241,68,32.22,65.67
+Weekend,Sunny,Residential,Evening,Sandwich,241,99,47.31,113.05
+Weekend,Sunny,Residential,Evening,Tea,241,30,14.16,34.53
+Weekend,Sunny,Residential,Evening,Cold Drink,241,49,20,92.93
+Weekend,Sunny,Residential,Morning,Maggie,114,64,36.69,23.68
+Weekend,Sunny,Residential,Morning,Sandwich,114,90,56.12,14.01
+Weekend,Sunny,Residential,Morning,Tea,114,12,6.06,30.94
+Weekend,Sunny,Residential,Morning,Cold Drink,114,44,18.28,45.69
+Weekday,Sunny,Office,Morning,Maggie,289,53,35.71,77.95
+Weekday,Sunny,Office,Morning,Sandwich,289,83,42.69,98.99
+Weekday,Sunny,Office,Morning,Tea,289,31,19.49,125.65
+Weekday,Sunny,Office,Morning,Cold Drink,289,50,23.06,45.53
+Weekday,Rainy,Office,Morning,Maggie,200,64,37.15,114.34
+Weekday,Rainy,Office,Morning,Sandwich,200,95,49.62,29.67
+Weekday,Rainy,Office,Morning,Tea,200,27,18.67,104.78
+Weekday,Rainy,Office,Morning,Cold Drink,200,43,28.1,33.44
+Weekend,Cloudy,Residential,Evening,Maggie,112,50,20.66,41.4
+Weekend,Cloudy,Residential,Evening,Sandwich,112,72,36.46,35.64
+Weekend,Cloudy,Residential,Evening,Tea,112,35,22.75,38.57
+Weekend,Cloudy,Residential,Evening,Cold Drink,112,58,30.82,41.42
+Weekend,Sunny,Residential,Morning,Maggie,247,65,36.49,45.31
+Weekend,Sunny,Residential,Morning,Sandwich,247,84,43.56,38.17
+Weekend,Sunny,Residential,Morning,Tea,247,36,14.71,119.51
+Weekend,Sunny,Residential,Morning,Cold Drink,247,33,17.35,55.75
+Weekday,Rainy,Residential,Evening,Maggie,295,47,25.88,169.63
+Weekday,Rainy,Residential,Evening,Sandwich,295,78,38.53,124.24
+Weekday,Rainy,Residential,Evening,Tea,295,16,10.88,165.9
+Weekday,Rainy,Residential,Evening,Cold Drink,295,39,19.3,54.78
+Weekend,Rainy,Office,Afternoon,Maggie,163,44,27.91,53.66
+Weekend,Rainy,Office,Afternoon,Sandwich,163,71,45.96,23.46
+Weekend,Rainy,Office,Afternoon,Tea,163,14,5.63,93.63
+Weekend,Rainy,Office,Afternoon,Cold Drink,163,58,30.7,34.84
+Weekday,Rainy,Office,Afternoon,Maggie,64,47,26.52,17.5
+Weekday,Rainy,Office,Afternoon,Sandwich,64,79,45.18,12.64
+Weekday,Rainy,Office,Afternoon,Tea,64,36,20.44,33.46
+Weekday,Rainy,Office,Afternoon,Cold Drink,64,40,27.74,24.94
+Weekend,Sunny,College,Evening,Maggie,182,61,39.41,50.71
+Weekend,Sunny,College,Evening,Sandwich,182,70,36.4,73.16
+Weekend,Sunny,College,Evening,Tea,182,20,10.73,60.8
+Weekend,Sunny,College,Evening,Cold Drink,182,38,22.08,81.31
+Weekday,Rainy,College,Evening,Maggie,282,48,21.81,145.59
+Weekday,Rainy,College,Evening,Sandwich,282,84,44.18,59
+Weekday,Rainy,College,Evening,Tea,282,32,16.81,62.63
+Weekday,Rainy,College,Evening,Cold Drink,282,42,23.92,65.61
+Weekend,Rainy,Office,Morning,Maggie,287,65,32.64,147.01
+Weekend,Rainy,Office,Morning,Sandwich,287,94,56.26,80.57
+Weekend,Rainy,Office,Morning,Tea,287,11,4.65,95.42
+Weekend,Rainy,Office,Morning,Cold Drink,287,50,32.52,112.62
+Weekday,Sunny,Office,Afternoon,Maggie,125,64,33.66,14.4
+Weekday,Sunny,Office,Afternoon,Sandwich,125,80,42.08,12.86
+Weekday,Sunny,Office,Afternoon,Tea,125,12,4.9,34.37
+Weekday,Sunny,Office,Afternoon,Cold Drink,125,35,22.21,36.4
+Weekday,Rainy,College,Evening,Maggie,295,41,17.16,138.38
+Weekday,Rainy,College,Evening,Sandwich,295,84,40.44,92
+Weekday,Rainy,College,Evening,Tea,295,24,13.29,70.06
+Weekday,Rainy,College,Evening,Cold Drink,295,57,30.09,103.16
+Weekday,Cloudy,College,Morning,Maggie,169,43,27.74,64.07
+Weekday,Cloudy,College,Morning,Sandwich,169,85,38.93,13.62
+Weekday,Cloudy,College,Morning,Tea,169,24,15.87,27.48
+Weekday,Cloudy,College,Morning,Cold Drink,169,45,22.48,50.5
+Weekend,Sunny,College,Morning,Maggie,244,54,27.99,63.19
+Weekend,Sunny,College,Morning,Sandwich,244,88,40.91,27.77
+Weekend,Sunny,College,Morning,Tea,244,14,8.79,46.37
+Weekend,Sunny,College,Morning,Cold Drink,244,49,30.39,74.65
+Weekend,Rainy,Office,Morning,Maggie,231,43,24.74,69.74
+Weekend,Rainy,Office,Morning,Sandwich,231,71,32.52,67.56
+Weekend,Rainy,Office,Morning,Tea,231,38,19.13,90.63
+Weekend,Rainy,Office,Morning,Cold Drink,231,44,21.52,39.04
+Weekday,Rainy,Office,Evening,Maggie,128,64,28.31,60.75
+Weekday,Rainy,Office,Evening,Sandwich,128,87,45.16,22.56
+Weekday,Rainy,Office,Evening,Tea,128,39,21.86,23.92
+Weekday,Rainy,Office,Evening,Cold Drink,128,33,15.88,15.92
+Weekend,Sunny,Office,Evening,Maggie,184,43,29.81,74.66
+Weekend,Sunny,Office,Evening,Sandwich,184,72,41.28,79.45
+Weekend,Sunny,Office,Evening,Tea,184,28,19.48,60.79
+Weekend,Sunny,Office,Evening,Cold Drink,184,56,29.31,63
+Weekend,Sunny,Office,Evening,Maggie,294,50,24.18,48.95
+Weekend,Sunny,Office,Evening,Sandwich,294,90,57.05,36.99
+Weekend,Sunny,Office,Evening,Tea,294,27,12.85,70.94
+Weekend,Sunny,Office,Evening,Cold Drink,294,40,27.9,83.01
+Weekend,Sunny,Office,Evening,Maggie,179,49,32.32,28.11
+Weekend,Sunny,Office,Evening,Sandwich,179,95,46.2,27.49
+Weekend,Sunny,Office,Evening,Tea,179,20,13.08,35.32
+Weekend,Sunny,Office,Evening,Cold Drink,179,39,26.01,102.88
+Weekday,Rainy,Office,Afternoon,Maggie,133,45,19.94,21.05
+Weekday,Rainy,Office,Afternoon,Sandwich,133,79,48.01,22.61
+Weekday,Rainy,Office,Afternoon,Tea,133,22,13.16,58.99
+Weekday,Rainy,Office,Afternoon,Cold Drink,133,44,18.39,18.53
+Weekend,Sunny,Office,Evening,Maggie,76,48,33.56,14.14
+Weekend,Sunny,Office,Evening,Sandwich,76,94,63.79,18.2
+Weekend,Sunny,Office,Evening,Tea,76,21,8.58,21.8
+Weekend,Sunny,Office,Evening,Cold Drink,76,54,25.79,12.35
+Weekend,Rainy,College,Evening,Maggie,173,43,19.45,58.79
+Weekend,Rainy,College,Evening,Sandwich,173,94,64.82,16.73
+Weekend,Rainy,College,Evening,Tea,173,21,12.13,38.87
+Weekend,Rainy,College,Evening,Cold Drink,173,36,19.8,20.9
+Weekend,Sunny,Office,Afternoon,Maggie,211,65,33.93,30.17
+Weekend,Sunny,Office,Afternoon,Sandwich,211,73,50.91,67.11
+Weekend,Sunny,Office,Afternoon,Tea,211,25,17.46,59.43
+Weekend,Sunny,Office,Afternoon,Cold Drink,211,30,19.54,90
+Weekend,Cloudy,Residential,Morning,Maggie,172,55,25.6,51.35
+Weekend,Cloudy,Residential,Morning,Sandwich,172,77,33.75,40.03
+Weekend,Cloudy,Residential,Morning,Tea,172,23,14.23,44.06
+Weekend,Cloudy,Residential,Morning,Cold Drink,172,42,27.35,23.77
+Weekend,Cloudy,College,Morning,Maggie,103,54,29.68,20.13
+Weekend,Cloudy,College,Morning,Sandwich,103,96,49.98,22.98
+Weekend,Cloudy,College,Morning,Tea,103,36,17.63,49.19
+Weekend,Cloudy,College,Morning,Cold Drink,103,50,30.68,21.32
+Weekday,Rainy,Office,Afternoon,Maggie,264,47,31.41,137.44
+Weekday,Rainy,Office,Afternoon,Sandwich,264,74,41.02,33.14
+Weekday,Rainy,Office,Afternoon,Tea,264,34,17.52,118.75
+Weekday,Rainy,Office,Afternoon,Cold Drink,264,34,17.57,45.43
+Weekday,Sunny,Residential,Evening,Maggie,216,54,37.42,57.39
+Weekday,Sunny,Residential,Evening,Sandwich,216,91,60.25,103.34
+Weekday,Sunny,Residential,Evening,Tea,216,23,12.4,42.34
+Weekday,Sunny,Residential,Evening,Cold Drink,216,50,24.59,71.54
+Weekday,Rainy,College,Evening,Maggie,210,42,26.11,113.39
+Weekday,Rainy,College,Evening,Sandwich,210,81,49.25,54.72
+Weekday,Rainy,College,Evening,Tea,210,18,11.54,71.75
+Weekday,Rainy,College,Evening,Cold Drink,210,48,29.72,60.01
+Weekday,Sunny,College,Afternoon,Maggie,269,59,32.31,91.18
+Weekday,Sunny,College,Afternoon,Sandwich,269,80,36.71,37.03
+Weekday,Sunny,College,Afternoon,Tea,269,19,10.58,49.68
+Weekday,Sunny,College,Afternoon,Cold Drink,269,52,29.93,105.88
+Weekend,Cloudy,Residential,Evening,Maggie,61,54,30.42,12.45
+Weekend,Cloudy,Residential,Evening,Sandwich,61,95,46.43,27.8
+Weekend,Cloudy,Residential,Evening,Tea,61,11,6.04,18.71
+Weekend,Cloudy,Residential,Evening,Cold Drink,61,43,24.92,18.05
+Weekend,Sunny,Residential,Evening,Maggie,101,61,40.75,14.83
+Weekend,Sunny,Residential,Evening,Sandwich,101,76,41.03,19.03
+Weekend,Sunny,Residential,Evening,Tea,101,35,22.09,20.32
+Weekend,Sunny,Residential,Evening,Cold Drink,101,48,32.32,16.1
+Weekend,Sunny,College,Morning,Maggie,174,61,29.95,67.85
+Weekend,Sunny,College,Morning,Sandwich,174,73,37.87,56.88
+Weekend,Sunny,College,Morning,Tea,174,23,11.32,47.73
+Weekend,Sunny,College,Morning,Cold Drink,174,38,18.06,35.53
+Weekend,Cloudy,Residential,Morning,Maggie,75,64,26.79,15.13
+Weekend,Cloudy,Residential,Morning,Sandwich,75,73,32.84,8.87
+Weekend,Cloudy,Residential,Morning,Tea,75,37,25.88,22.96
+Weekend,Cloudy,Residential,Morning,Cold Drink,75,59,40.26,27.13
+Weekend,Sunny,Residential,Afternoon,Maggie,155,66,39.46,36.05
+Weekend,Sunny,Residential,Afternoon,Sandwich,155,89,46.2,36.68
+Weekend,Sunny,Residential,Afternoon,Tea,155,34,23.19,45.67
+Weekend,Sunny,Residential,Afternoon,Cold Drink,155,47,21.59,35.84
+Weekday,Cloudy,College,Afternoon,Maggie,279,66,33.09,38.52
+Weekday,Cloudy,College,Afternoon,Sandwich,279,90,54.24,21.76
+Weekday,Cloudy,College,Afternoon,Tea,279,13,6.01,32.8
+Weekday,Cloudy,College,Afternoon,Cold Drink,279,30,12.38,58.34
+Weekday,Cloudy,College,Evening,Maggie,85,57,31.86,30.96
+Weekday,Cloudy,College,Evening,Sandwich,85,83,36.89,10.83
+Weekday,Cloudy,College,Evening,Tea,85,38,16.84,12.36
+Weekday,Cloudy,College,Evening,Cold Drink,85,56,28.64,24.17
+Weekday,Rainy,Office,Evening,Maggie,282,43,19.79,98.73
+Weekday,Rainy,Office,Evening,Sandwich,282,71,41.82,117.96
+Weekday,Rainy,Office,Evening,Tea,282,27,13.29,67.07
+Weekday,Rainy,Office,Evening,Cold Drink,282,58,25.36,102.24
+Weekday,Rainy,College,Afternoon,Maggie,119,51,21.02,39.56
+Weekday,Rainy,College,Afternoon,Sandwich,119,74,38.98,47.44
+Weekday,Rainy,College,Afternoon,Tea,119,39,23.47,43.62
+Weekday,Rainy,College,Afternoon,Cold Drink,119,34,21.62,33.96
+Weekday,Sunny,Office,Morning,Maggie,125,62,29.02,33.76
+Weekday,Sunny,Office,Morning,Sandwich,125,90,47.88,36.65
+Weekday,Sunny,Office,Morning,Tea,125,30,13.05,22.45
+Weekday,Sunny,Office,Morning,Cold Drink,125,36,24.15,40.31
+Weekday,Rainy,College,Evening,Maggie,144,65,34.6,41.43
+Weekday,Rainy,College,Evening,Sandwich,144,73,36.93,58.74
+Weekday,Rainy,College,Evening,Tea,144,31,14.43,82.21
+Weekday,Rainy,College,Evening,Cold Drink,144,39,24.78,40.26
+Weekday,Cloudy,Residential,Afternoon,Maggie,216,67,35.14,22.53
+Weekday,Cloudy,Residential,Afternoon,Sandwich,216,86,49.15,33.58
+Weekday,Cloudy,Residential,Afternoon,Tea,216,14,8.14,71.09
+Weekday,Cloudy,Residential,Afternoon,Cold Drink,216,56,26.21,64.79
+Weekday,Cloudy,College,Evening,Maggie,160,42,19.12,30.85
+Weekday,Cloudy,College,Evening,Sandwich,160,84,48.67,28.97
+Weekday,Cloudy,College,Evening,Tea,160,15,8.3,39.2
+Weekday,Cloudy,College,Evening,Cold Drink,160,37,17.8,25.32
+Weekday,Cloudy,College,Evening,Maggie,94,47,26.89,30.43
+Weekday,Cloudy,College,Evening,Sandwich,94,85,39.15,14.01
+Weekday,Cloudy,College,Evening,Tea,94,30,12.44,12.16
+Weekday,Cloudy,College,Evening,Cold Drink,94,35,22.63,34.86
+Weekday,Sunny,College,Afternoon,Maggie,284,55,35.9,53.67
+Weekday,Sunny,College,Afternoon,Sandwich,284,94,64.02,78.57
+Weekday,Sunny,College,Afternoon,Tea,284,37,16.17,72.58
+Weekday,Sunny,College,Afternoon,Cold Drink,284,38,17.09,50.15
+Weekend,Cloudy,College,Evening,Maggie,74,57,38.67,11.31
+Weekend,Cloudy,College,Evening,Sandwich,74,97,41.03,6.29
+Weekend,Cloudy,College,Evening,Tea,74,34,14.17,14.75
+Weekend,Cloudy,College,Evening,Cold Drink,74,44,23.06,21.9
+Weekend,Sunny,Office,Morning,Maggie,275,55,37.79,76.95
+Weekend,Sunny,Office,Morning,Sandwich,275,85,58.56,36.97
+Weekend,Sunny,Office,Morning,Tea,275,22,10.36,46.15
+Weekend,Sunny,Office,Morning,Cold Drink,275,51,29.85,66.96
+Weekend,Cloudy,College,Afternoon,Maggie,224,51,21.51,41.26
+Weekend,Cloudy,College,Afternoon,Sandwich,224,94,55.86,55.37
+Weekend,Cloudy,College,Afternoon,Tea,224,16,7.56,81.15
+Weekend,Cloudy,College,Afternoon,Cold Drink,224,51,31.57,55.32
+Weekday,Cloudy,Residential,Evening,Maggie,263,62,25.11,50
+Weekday,Cloudy,Residential,Evening,Sandwich,263,81,50.16,71.33
+Weekday,Cloudy,Residential,Evening,Tea,263,36,18.42,67.48
+Weekday,Cloudy,Residential,Evening,Cold Drink,263,49,32.34,31
+Weekend,Cloudy,Office,Evening,Maggie,276,47,26.54,73.14
+Weekend,Cloudy,Office,Evening,Sandwich,276,92,52.49,39
+Weekend,Cloudy,Office,Evening,Tea,276,37,22.3,60.39
+Weekend,Cloudy,Office,Evening,Cold Drink,276,43,17.34,88.06
+Weekend,Sunny,Office,Morning,Maggie,202,48,22.2,41.74
+Weekend,Sunny,Office,Morning,Sandwich,202,92,50.15,45.55
+Weekend,Sunny,Office,Morning,Tea,202,39,26.58,53.82
+Weekend,Sunny,Office,Morning,Cold Drink,202,44,19.73,73.18
+Weekday,Cloudy,College,Afternoon,Maggie,137,58,37.6,24.16
+Weekday,Cloudy,College,Afternoon,Sandwich,137,76,48.19,36.88
+Weekday,Cloudy,College,Afternoon,Tea,137,15,7.49,44.31
+Weekday,Cloudy,College,Afternoon,Cold Drink,137,54,34.5,43.91
+Weekend,Sunny,College,Morning,Maggie,136,59,28.23,30.7
+Weekend,Sunny,College,Morning,Sandwich,136,86,52.31,14.74
+Weekend,Sunny,College,Morning,Tea,136,35,14.07,44
+Weekend,Sunny,College,Morning,Cold Drink,136,54,25.53,25.99
+Weekday,Rainy,Office,Evening,Maggie,296,60,32.49,67.89
+Weekday,Rainy,Office,Evening,Sandwich,296,87,53.45,74.06
+Weekday,Rainy,Office,Evening,Tea,296,33,18.36,163.82
+Weekday,Rainy,Office,Evening,Cold Drink,296,33,15.93,73.51
+Weekend,Cloudy,Office,Morning,Maggie,193,41,24.11,66.11
+Weekend,Cloudy,Office,Morning,Sandwich,193,94,58.75,72.17
+Weekend,Cloudy,Office,Morning,Tea,193,10,4.98,37.48
+Weekend,Cloudy,Office,Morning,Cold Drink,193,45,20.68,33.59
+Weekend,Sunny,College,Morning,Maggie,183,60,31.68,52.09
+Weekend,Sunny,College,Morning,Sandwich,183,85,38.52,40.6
+Weekend,Sunny,College,Morning,Tea,183,19,10.55,39.06
+Weekend,Sunny,College,Morning,Cold Drink,183,57,23.05,57.13
+Weekday,Cloudy,Residential,Morning,Maggie,158,48,23.43,28.41
+Weekday,Cloudy,Residential,Morning,Sandwich,158,84,37.48,57.8
+Weekday,Cloudy,Residential,Morning,Tea,158,32,19.16,70.31
+Weekday,Cloudy,Residential,Morning,Cold Drink,158,44,26.56,59.96
+Weekend,Sunny,Office,Morning,Maggie,144,48,31.87,16.53
+Weekend,Sunny,Office,Morning,Sandwich,144,83,34.62,20.35
+Weekend,Sunny,Office,Morning,Tea,144,20,9.32,26.48
+Weekend,Sunny,Office,Morning,Cold Drink,144,42,19.44,48.57
+Weekday,Rainy,College,Evening,Maggie,179,61,31.92,52.49
+Weekday,Rainy,College,Evening,Sandwich,179,77,49.37,26.88
+Weekday,Rainy,College,Evening,Tea,179,38,18.66,89.83
+Weekday,Rainy,College,Evening,Cold Drink,179,52,23.16,26.06
+Weekend,Cloudy,College,Morning,Maggie,179,64,39.6,48.78
+Weekend,Cloudy,College,Morning,Sandwich,179,79,48.81,37.61
+Weekend,Cloudy,College,Morning,Tea,179,12,6.34,68.31
+Weekend,Cloudy,College,Morning,Cold Drink,179,34,15.97,39.67
+Weekday,Rainy,Residential,Afternoon,Maggie,193,63,40.8,98
+Weekday,Rainy,Residential,Afternoon,Sandwich,193,81,54.2,68.29
+Weekday,Rainy,Residential,Afternoon,Tea,193,26,15.53,84.67
+Weekday,Rainy,Residential,Afternoon,Cold Drink,193,59,29.6,22.91
+Weekday,Rainy,Residential,Afternoon,Maggie,269,55,35.35,146.33
+Weekday,Rainy,Residential,Afternoon,Sandwich,269,82,53.92,96.08
+Weekday,Rainy,Residential,Afternoon,Tea,269,11,5.3,150.73
+Weekday,Rainy,Residential,Afternoon,Cold Drink,269,47,32.12,81.98
+Weekday,Cloudy,College,Afternoon,Maggie,201,50,27.66,27.33
+Weekday,Cloudy,College,Afternoon,Sandwich,201,71,29.76,30.78
+Weekday,Cloudy,College,Afternoon,Tea,201,38,16.77,77.53
+Weekday,Cloudy,College,Afternoon,Cold Drink,201,50,30.24,34.31
+Weekday,Cloudy,Office,Evening,Maggie,120,48,33.41,40.23
+Weekday,Cloudy,Office,Evening,Sandwich,120,77,46.46,25.3
+Weekday,Cloudy,Office,Evening,Tea,120,36,21.29,23.06
+Weekday,Cloudy,Office,Evening,Cold Drink,120,36,22.15,29.12
+Weekend,Cloudy,Residential,Morning,Maggie,172,50,30.15,50.02
+Weekend,Cloudy,Residential,Morning,Sandwich,172,73,41.85,33.09
+Weekend,Cloudy,Residential,Morning,Tea,172,26,14,77.95
+Weekend,Cloudy,Residential,Morning,Cold Drink,172,32,19.61,22.64
+Weekend,Rainy,Residential,Morning,Maggie,110,56,27.51,23.39
+Weekend,Rainy,Residential,Morning,Sandwich,110,87,45.44,40.25
+Weekend,Rainy,Residential,Morning,Tea,110,24,10.11,43.96
+Weekend,Rainy,Residential,Morning,Cold Drink,110,47,27.7,19.93
+Weekday,Rainy,Residential,Morning,Maggie,154,41,25.94,50.34
+Weekday,Rainy,Residential,Morning,Sandwich,154,99,66.67,25.63
+Weekday,Rainy,Residential,Morning,Tea,154,11,5.62,62.21
+Weekday,Rainy,Residential,Morning,Cold Drink,154,54,24.38,23.14
+Weekday,Sunny,Residential,Evening,Maggie,241,68,35.68,34.4
+Weekday,Sunny,Residential,Evening,Sandwich,241,96,45.6,35.29
+Weekday,Sunny,Residential,Evening,Tea,241,23,15.2,62.42
+Weekday,Sunny,Residential,Evening,Cold Drink,241,49,25.81,121.29
+Weekday,Sunny,Office,Afternoon,Maggie,177,56,24.71,32.4
+Weekday,Sunny,Office,Afternoon,Sandwich,177,92,57.56,44.93
+Weekday,Sunny,Office,Afternoon,Tea,177,11,6.86,34.24
+Weekday,Sunny,Office,Afternoon,Cold Drink,177,54,28.65,99.88
+Weekend,Cloudy,College,Morning,Maggie,281,48,25.23,46.62
+Weekend,Cloudy,College,Morning,Sandwich,281,78,44.16,71.34
+Weekend,Cloudy,College,Morning,Tea,281,31,19.3,54.92
+Weekend,Cloudy,College,Morning,Cold Drink,281,35,21.7,101.96
+Weekday,Sunny,Residential,Morning,Maggie,50,63,31.02,8.63
+Weekday,Sunny,Residential,Morning,Sandwich,50,96,49.19,14.32
+Weekday,Sunny,Residential,Morning,Tea,50,37,17.4,21.11
+Weekday,Sunny,Residential,Morning,Cold Drink,50,57,39.8,12.74
+Weekday,Rainy,Office,Morning,Maggie,62,63,40.37,18.82
+Weekday,Rainy,Office,Morning,Sandwich,62,74,44.84,21.36
+Weekday,Rainy,Office,Morning,Tea,62,26,17.12,43.5
+Weekday,Rainy,Office,Morning,Cold Drink,62,48,19.66,16.15
+Weekend,Cloudy,Residential,Afternoon,Maggie,155,46,28.81,27.06
+Weekend,Cloudy,Residential,Afternoon,Sandwich,155,70,46.62,34.04
+Weekend,Cloudy,Residential,Afternoon,Tea,155,27,11.59,48.35
+Weekend,Cloudy,Residential,Afternoon,Cold Drink,155,43,28.28,30.65
+Weekend,Cloudy,Residential,Afternoon,Maggie,177,59,38.25,17.73
+Weekend,Cloudy,Residential,Afternoon,Sandwich,177,70,47.98,24.98
+Weekend,Cloudy,Residential,Afternoon,Tea,177,24,10.93,40.44
+Weekend,Cloudy,Residential,Afternoon,Cold Drink,177,54,26.32,39.86
+Weekend,Sunny,Office,Evening,Maggie,261,69,37.8,62.34
+Weekend,Sunny,Office,Evening,Sandwich,261,71,46.29,63.2
+Weekend,Sunny,Office,Evening,Tea,261,27,13.21,49.44
+Weekend,Sunny,Office,Evening,Cold Drink,261,43,25.89,138.31
+Weekend,Rainy,Residential,Evening,Maggie,196,64,26.95,131.53
+Weekend,Rainy,Residential,Evening,Sandwich,196,98,40.46,84.53
+Weekend,Rainy,Residential,Evening,Tea,196,15,6.35,113.67
+Weekend,Rainy,Residential,Evening,Cold Drink,196,56,34.8,27.77
+Weekday,Sunny,Office,Afternoon,Maggie,129,67,42.27,49.08
+Weekday,Sunny,Office,Afternoon,Sandwich,129,80,32.35,43.98
+Weekday,Sunny,Office,Afternoon,Tea,129,16,7.36,23.9
+Weekday,Sunny,Office,Afternoon,Cold Drink,129,44,29.2,74.64
+Weekend,Rainy,Residential,Evening,Maggie,51,49,22.46,21.5
+Weekend,Rainy,Residential,Evening,Sandwich,51,81,51.75,19.7
+Weekend,Rainy,Residential,Evening,Tea,51,29,17.37,10.36
+Weekend,Rainy,Residential,Evening,Cold Drink,51,55,23.44,10.87
+Weekday,Sunny,Residential,Evening,Maggie,203,52,35.71,94.05
+Weekday,Sunny,Residential,Evening,Sandwich,203,95,58.94,75.49
+Weekday,Sunny,Residential,Evening,Tea,203,32,16.57,78.02
+Weekday,Sunny,Residential,Evening,Cold Drink,203,58,31.96,106.19
+Weekend,Cloudy,Office,Evening,Maggie,257,53,28.8,101.89
+Weekend,Cloudy,Office,Evening,Sandwich,257,72,32.95,44.35
+Weekend,Cloudy,Office,Evening,Tea,257,18,10.07,83.19
+Weekend,Cloudy,Office,Evening,Cold Drink,257,55,32.32,88.02
+Weekday,Sunny,College,Morning,Maggie,63,59,34.85,13.03
+Weekday,Sunny,College,Morning,Sandwich,63,76,49.21,19.32
+Weekday,Sunny,College,Morning,Tea,63,30,15.44,11.44
+Weekday,Sunny,College,Morning,Cold Drink,63,39,26.92,28.1
+Weekday,Sunny,Residential,Afternoon,Maggie,204,67,30.9,49.11
+Weekday,Sunny,Residential,Afternoon,Sandwich,204,87,47.13,43.55
+Weekday,Sunny,Residential,Afternoon,Tea,204,27,17.96,41.39
+Weekday,Sunny,Residential,Afternoon,Cold Drink,204,52,27.23,37.24
+Weekend,Sunny,Residential,Afternoon,Maggie,74,44,22.36,9.33
+Weekend,Sunny,Residential,Afternoon,Sandwich,74,78,33.09,10.67
+Weekend,Sunny,Residential,Afternoon,Tea,74,33,18.59,12.54
+Weekend,Sunny,Residential,Afternoon,Cold Drink,74,54,21.7,27.21
+Weekend,Sunny,College,Morning,Maggie,166,57,39.32,26.85
+Weekend,Sunny,College,Morning,Sandwich,166,80,37.77,38.7
+Weekend,Sunny,College,Morning,Tea,166,38,21.52,56.19
+Weekend,Sunny,College,Morning,Cold Drink,166,47,29.08,47.42
+Weekday,Rainy,College,Morning,Maggie,63,56,24.33,9.56
+Weekday,Rainy,College,Morning,Sandwich,63,96,59.65,12.31
+Weekday,Rainy,College,Morning,Tea,63,20,8.33,23.86
+Weekday,Rainy,College,Morning,Cold Drink,63,56,30.21,10.59
+Weekday,Rainy,Office,Morning,Maggie,203,65,31.1,87.47
+Weekday,Rainy,Office,Morning,Sandwich,203,90,41.14,76.16
+Weekday,Rainy,Office,Morning,Tea,203,28,15.98,130.1
+Weekday,Rainy,Office,Morning,Cold Drink,203,46,22.71,64.46
+Weekday,Cloudy,Office,Evening,Maggie,249,59,37.61,83.79
+Weekday,Cloudy,Office,Evening,Sandwich,249,83,51.67,102.05
+Weekday,Cloudy,Office,Evening,Tea,249,38,23.69,58.21
+Weekday,Cloudy,Office,Evening,Cold Drink,249,54,28.11,75.23
+Weekend,Sunny,Residential,Afternoon,Maggie,193,59,26.9,62.69
+Weekend,Sunny,Residential,Afternoon,Sandwich,193,80,34.71,53.83
+Weekend,Sunny,Residential,Afternoon,Tea,193,10,6.25,47.24
+Weekend,Sunny,Residential,Afternoon,Cold Drink,193,32,22.09,91.06
+Weekday,Rainy,Office,Afternoon,Maggie,98,51,35.12,38.32
+Weekday,Rainy,Office,Afternoon,Sandwich,98,83,39.48,22.93
+Weekday,Rainy,Office,Afternoon,Tea,98,35,19.37,33.61
+Weekday,Rainy,Office,Afternoon,Cold Drink,98,37,15.24,38.53
+Weekday,Sunny,Residential,Morning,Maggie,97,67,41.64,34.64
+Weekday,Sunny,Residential,Morning,Sandwich,97,83,48.15,30.98
+Weekday,Sunny,Residential,Morning,Tea,97,11,7.22,28.43
+Weekday,Sunny,Residential,Morning,Cold Drink,97,48,24.12,42.86
+Weekend,Sunny,Office,Afternoon,Maggie,61,59,38.04,17.03
+Weekend,Sunny,Office,Afternoon,Sandwich,61,88,40.26,16.27
+Weekend,Sunny,Office,Afternoon,Tea,61,28,14.06,22.01
+Weekend,Sunny,Office,Afternoon,Cold Drink,61,40,17.01,18.92
+Weekday,Cloudy,Residential,Evening,Maggie,171,44,26.93,53.48
+Weekday,Cloudy,Residential,Evening,Sandwich,171,84,37.14,38.16
+Weekday,Cloudy,Residential,Evening,Tea,171,35,14.44,33.62
+Weekday,Cloudy,Residential,Evening,Cold Drink,171,40,24.45,64.74
+Weekday,Cloudy,Residential,Afternoon,Maggie,296,53,32.27,46.73
+Weekday,Cloudy,Residential,Afternoon,Sandwich,296,92,43.95,34.29
+Weekday,Cloudy,Residential,Afternoon,Tea,296,35,15.06,99.92
+Weekday,Cloudy,Residential,Afternoon,Cold Drink,296,48,26.14,34.69
+Weekend,Sunny,Office,Afternoon,Maggie,134,61,40.84,36.82
+Weekend,Sunny,Office,Afternoon,Sandwich,134,88,59.56,44.04
+Weekend,Sunny,Office,Afternoon,Tea,134,11,5.01,26.6
+Weekend,Sunny,Office,Afternoon,Cold Drink,134,40,23.48,56.43
+Weekday,Rainy,Office,Evening,Maggie,173,60,37.1,107.1
+Weekday,Rainy,Office,Evening,Sandwich,173,85,38.74,26.05
+Weekday,Rainy,Office,Evening,Tea,173,21,11.59,92.59
+Weekday,Rainy,Office,Evening,Cold Drink,173,47,22.7,46.27
+Weekend,Rainy,Residential,Evening,Maggie,184,48,23.92,106.36
+Weekend,Rainy,Residential,Evening,Sandwich,184,91,59.95,43.01
+Weekend,Rainy,Residential,Evening,Tea,184,19,12.85,28.59
+Weekend,Rainy,Residential,Evening,Cold Drink,184,46,27,21.88
+Weekday,Rainy,College,Afternoon,Maggie,134,64,30.14,49.25
+Weekday,Rainy,College,Afternoon,Sandwich,134,96,60.95,30.49
+Weekday,Rainy,College,Afternoon,Tea,134,29,18.89,34.56
+Weekday,Rainy,College,Afternoon,Cold Drink,134,56,26.69,46.68
+Weekend,Rainy,Office,Morning,Maggie,124,62,25.48,21.54
+Weekend,Rainy,Office,Morning,Sandwich,124,99,50.97,39.15
+Weekend,Rainy,Office,Morning,Tea,124,16,8.5,85.4
+Weekend,Rainy,Office,Morning,Cold Drink,124,47,20.22,27.03
+Weekend,Cloudy,Residential,Afternoon,Maggie,295,57,28.48,57.42
+Weekend,Cloudy,Residential,Afternoon,Sandwich,295,98,65.21,49.98
+Weekend,Cloudy,Residential,Afternoon,Tea,295,32,20.16,115.02
+Weekend,Cloudy,Residential,Afternoon,Cold Drink,295,55,31.32,75.22
+Weekday,Sunny,Office,Evening,Maggie,259,44,21.43,49.86
+Weekday,Sunny,Office,Evening,Sandwich,259,96,46.52,60.73
+Weekday,Sunny,Office,Evening,Tea,259,33,17.35,34.7
+Weekday,Sunny,Office,Evening,Cold Drink,259,47,31.67,109.99
+Weekend,Rainy,College,Evening,Maggie,78,42,27.54,37.59
+Weekend,Rainy,College,Evening,Sandwich,78,95,59.43,24.36
+Weekend,Rainy,College,Evening,Tea,78,21,14.47,24.93
+Weekend,Rainy,College,Evening,Cold Drink,78,51,31.03,8.05
+Weekday,Rainy,Office,Evening,Maggie,217,69,43.46,86.68
+Weekday,Rainy,Office,Evening,Sandwich,217,74,41.53,41.04
+Weekday,Rainy,Office,Evening,Tea,217,29,17.02,45.37
+Weekday,Rainy,Office,Evening,Cold Drink,217,47,30.71,52.71
+Weekday,Cloudy,Residential,Evening,Maggie,289,43,26.96,84.01
+Weekday,Cloudy,Residential,Evening,Sandwich,289,80,48.7,132.92
+Weekday,Cloudy,Residential,Evening,Tea,289,32,15.93,69.52
+Weekday,Cloudy,Residential,Evening,Cold Drink,289,42,22.38,102.36
+Weekday,Cloudy,Residential,Afternoon,Maggie,238,43,28.02,81.53
+Weekday,Cloudy,Residential,Afternoon,Sandwich,238,79,32.42,55.63
+Weekday,Cloudy,Residential,Afternoon,Tea,238,14,6.87,26.47
+Weekday,Cloudy,Residential,Afternoon,Cold Drink,238,38,21.34,89
+Weekend,Cloudy,College,Afternoon,Maggie,159,41,25.64,60.8
+Weekend,Cloudy,College,Afternoon,Sandwich,159,85,54.73,14.44
+Weekend,Cloudy,College,Afternoon,Tea,159,15,7.24,31.74
+Weekend,Cloudy,College,Afternoon,Cold Drink,159,53,31.18,59.96
+Weekday,Rainy,Residential,Morning,Maggie,192,45,22.19,63.28
+Weekday,Rainy,Residential,Morning,Sandwich,192,91,44.12,36.74
+Weekday,Rainy,Residential,Morning,Tea,192,13,8.78,42.72
+Weekday,Rainy,Residential,Morning,Cold Drink,192,33,22.87,40.93
+Weekend,Sunny,Residential,Morning,Maggie,110,60,27.25,42.27
+Weekend,Sunny,Residential,Morning,Sandwich,110,94,46.8,35.95
+Weekend,Sunny,Residential,Morning,Tea,110,13,7.11,20.02
+Weekend,Sunny,Residential,Morning,Cold Drink,110,47,29.27,27.8
+Weekend,Sunny,Office,Afternoon,Maggie,50,46,27.56,6.77
+Weekend,Sunny,Office,Afternoon,Sandwich,50,96,40.05,13.75
+Weekend,Sunny,Office,Afternoon,Tea,50,19,11.44,5.25
+Weekend,Sunny,Office,Afternoon,Cold Drink,50,59,35.37,16.94
+Weekday,Cloudy,College,Evening,Maggie,264,41,27.89,44.14
+Weekday,Cloudy,College,Evening,Sandwich,264,99,40.74,46.67
+Weekday,Cloudy,College,Evening,Tea,264,17,8.38,67.15
+Weekday,Cloudy,College,Evening,Cold Drink,264,52,34.99,83.21
+Weekend,Sunny,Residential,Morning,Maggie,192,66,35.45,46.57
+Weekend,Sunny,Residential,Morning,Sandwich,192,81,43.95,62.8
+Weekend,Sunny,Residential,Morning,Tea,192,26,11.05,89.58
+Weekend,Sunny,Residential,Morning,Cold Drink,192,52,27.46,38.4
